@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Oveja'.",
+      "answer": "Sheep"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Gallo'.",
+      "answer": "Rooster",
+      "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Rabbit",
+      "answer": "Rabbit"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Parrot",
+      "answer": "Parrot",
+      "options": [ "Canary", "Chicken", "Parrot","Bird" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Turtle",
+      "answer": "Turtle"
+    }
+  ]
+}
