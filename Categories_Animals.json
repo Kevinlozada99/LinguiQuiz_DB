@@ -6,6 +6,11 @@
       "answer": "Sheep"
     },
     {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Caballo'.",
+      "answer": "Horse"
+    },
+    {
       "type": "multiplechoice",
       "question": "Selecciona la traducción correcta en inglés de 'Gallo'.",
       "answer": "Rooster",
