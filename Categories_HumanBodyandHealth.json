@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Termómetro'.",
+      "answer": "Thermometer"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Pulmón'.",
+      "answer": "Lung",
+      "options": [ "Waist", "Lung", "Tongue", "Pain" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Ear",
+      "answer": "Ear"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Brain",
+      "answer": "Brain",
+      "options": [ "Brain", "Head", "Hand", "Bone" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Healthy",
+      "answer": "Healthy"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'Ellos no están bailando salsa'",
+      "answer": "They aren't dancing salsa"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'Ella no me ayudará'",
+      "answer": "Dog"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase '¿Están trabajando los niños?'",
+      "answer": "Are the children working?"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "questions": [
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/How are you'",
+      "answer": "How are you?"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Where is the pharmacy'",
+      "answer": "Where is the pharmacy?"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Clothes",
+      "answer": "Clothes"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Always",
+      "answer": "Always"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/I am going to sleep",
+      "answer": "I am going to sleep"
+    }
+  ]
+}

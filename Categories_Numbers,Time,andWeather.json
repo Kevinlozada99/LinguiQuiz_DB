@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Doce'.",
+      "answer": "Twelve"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Cuarto'.",
+      "answer": "Fourth",
+      "options": [ "Four", "Fourteen", "Fourth", "Forty" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Moon",
+      "answer": "Moon"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Cloud",
+      "answer": "Cloud",
+      "options": [ "Thunder", "Cloud", "Wind", "Fog" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Evening",
+      "answer": "Evening"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Presupuesto'.",
+      "answer": "Budget"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Impuesto'.",
+      "answer": "Tax",
+      "options": [ "Profit", "Law", "Invoice", "Tax" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Money",
+      "answer": "Money"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Market",
+      "answer": "Market",
+      "options": [ "Market", "Savings", "Wage", "Branch" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Mortgage",
+      "answer": "Mortgage"
+    }
+  ]
+}

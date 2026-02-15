@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Iglesia'.",
+      "answer": "Church"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Teatro'.",
+      "answer": "Theater",
+      "options": [ "Factory", "Temple", "Theater", "Cinema" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Train",
+      "answer": "Train"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Forest",
+      "answer": "Forest",
+      "options": [ "Town", "Lake", "Beach", "Forest" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Harbor",
+      "answer": "Harbor"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "questions": [
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Despite the lack of experience, he did quite well",
+      "answer": "Despite the lack of experience, he did quite well"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/The exam was considered difficult by some students",
+      "answer": "The exam was considered difficult by some students"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/The movie was considered a success by the international critics",
+      "answer": "The movie was considered a success by the international critics"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/I would never have imagined that moving to another country would involve so many cultural, emotional, and financial challenges at the same time",
+      "answer": "I would never have imagined that moving to another country would involve so many cultural, emotional, and financial challenges at the same time"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/If more had been invested in research, the results would have been revolutionary",
+      "answer": "If more had been invested in research, the results would have been revolutionary"
+    }
+  ]
+}

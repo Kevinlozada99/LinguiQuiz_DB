@@ -1,0 +1,25 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'He visitado Londres dos veces'.",
+      "answer": "I have visited London twice"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Ella no ha visitado París todavía'.",
+      "answer": "She hasn't visited Paris yet"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: '¿Has visitado España alguna vez?'.",
+      "answer": "Have you ever visited Spain?"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "In what tense is the following sentence written: 'I am going to study for the exam tonight",
+      "options": [ "Future continuous", "Future perfect", "Future with going to", "Present perfect" ],
+      "answer": "Future with going to"
+    }
+  ]
+}

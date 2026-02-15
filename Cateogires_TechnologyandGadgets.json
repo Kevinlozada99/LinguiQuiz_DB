@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Impresora'.",
+      "answer": "Printer"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Redes sociales'.",
+      "answer": "Social media",
+      "options": [ "Search engine", "Social red", "Modem", "Social media" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Laptop",
+      "answer": "Laptop"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Keyboard",
+      "answer": "Keyboard",
+      "options": [ "Desktop", "Tablet", "Keyboard", "Landline" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Update",
+      "answer": "Update"
+    }
+  ]
+}

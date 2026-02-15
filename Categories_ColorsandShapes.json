@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Plateado'.",
+      "answer": "Silver"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Arcoíris'.",
+      "answer": "Rainbow",
+      "options": [ "Teal", "Gold", "Rainbow", "Arrow" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Heart",
+      "answer": "Heart"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Arrow",
+      "answer": "Arrow",
+      "options": [ "Cross", "Arrow", "Wave", "Square" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Parallelogram",
+      "answer": "Parallelogram"
+    }
+  ]
+}

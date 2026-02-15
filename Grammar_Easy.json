@@ -1,0 +1,25 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Yo soy estudiante'.",
+      "answer": "I am a student"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Yo tengo un perro'.",
+      "answer": "I have a dog"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: '¿Tus amigos hablan inglés?'.",
+      "answer": "Do your friends speak English?"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la forma correcta del verbo 'to be' en presente para 'He':",
+      "answer": "is",
+      "options": [ "am", "is", "are", "you" ]
+    }
+  ]
+}

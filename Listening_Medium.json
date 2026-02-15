@@ -1,0 +1,29 @@
+﻿{
+  "questions": [
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/What time does the science class start this afternoon'",
+      "answer": "What time does the science class start this afternoon?"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Can you help me translate this text into English'",
+      "answer": "Can you help me translate this text into English?"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Next weekend we are going to have a barbecue",
+      "answer": "Next weekend we are going to have a barbecue"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/I don’t understand what you are saying",
+      "answer": "I don’t understand what you are saying"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/I am going to visit my grandparents this weekend",
+      "answer": "I am going to visit my grandparents this weekend"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase '¿Han trabajado ustedes juntos antes?'",
+      "answer": "Have you worked together before?"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'Mi hermano ha aprendido a conducir'",
+      "answer": "My brother has learned to drive"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'No voy a salir esta noche porque tengo mucho trabajo que terminar'",
+      "answer": "I am not going to go out tonight because I have too much work to finish"
+    }
+  ]
+}

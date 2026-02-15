@@ -1,0 +1,25 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Cuando llegué al aeropuerto, el avión ya había despegado'.",
+      "answer": "When I arrived at the airport, the plane had already taken off"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: 'Si hubiera estudiado más, habría aprobado el examen'.",
+      "answer": "If I had studied more, I would have passed the exam"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce al inglés: '¿Habrá sido publicado el libro para fin de año?'.",
+      "answer": "Will the book have been published by the end of the year?"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "In what tense is the following sentence written: 'By next month I will have finished my thesis'?",
+      "options": [ "Past perfect", "Future perfect", "Reported speech", "Present perfect" ],
+      "answer": "Future perfect"
+    }
+  ]
+}

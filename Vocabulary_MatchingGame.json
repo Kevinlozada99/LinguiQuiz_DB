@@ -1,0 +1,46 @@
+﻿{
+  "questions": [
+    {
+      "type": "matching",
+      "question": "Empareja las palabras con su traducción correcta",
+      "pairs": [
+        {
+          "left": "Perro",
+          "right": "Dog"
+        },
+        {
+          "left": "Gato",
+          "right": "Cat"
+        },
+        {
+          "left": "Pájaro",
+          "right": "Bird"
+        },
+        {
+          "left": "Pez",
+          "right": "Fish"
+        },
+        {
+          "left": "Ventana",
+          "right": "Window"
+        },
+        {
+          "left": "Bolso",
+          "right": "Bag"
+        },
+        {
+          "left": "Piso",
+          "right": "Floor"
+        },
+        {
+          "left": "Carta",
+          "right": "Letter"
+        },
+        {
+          "left": "Lluvia",
+          "right": "Rain"
+        }
+      ]
+    }
+  ]
+}

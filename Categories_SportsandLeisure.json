@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Senderismo'.",
+      "answer": "Hiking"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Trotar'.",
+      "answer": "Jogging",
+      "options": [ "Running", "Jogging", "Rollerblading", "Diving" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Kite",
+      "answer": "Kite"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Chess",
+      "answer": "Chess",
+      "options": [ "Board games", "Chess", "Darts", "Archery" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Horse riding",
+      "answer": "Horse riding"
+    }
+  ]
+}

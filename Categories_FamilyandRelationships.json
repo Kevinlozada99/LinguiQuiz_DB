@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Compañero de clase'.",
+      "answer": "Classmate"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Madrastra'.",
+      "answer": "Stepmother",
+      "options": [ "Wife", "Mother-in-law", "Grandmother", "Stepmother" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Grandmother",
+      "answer": "Grandmother"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Baby",
+      "answer": "Baby",
+      "options": [ "Child", "Teenager", "Baby", "Boy" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Nephew",
+      "answer": "Nephew"
+    }
+  ]
+}

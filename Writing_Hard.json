@@ -1,0 +1,19 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'La decisión había sido tomada antes de que yo llegara'",
+      "answer": "The decision had been made before I arrived"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'El profesor explicó que el examen había sido pospuesto'",
+      "answer": "The teacher explained that the exam had been postponed"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés la frase 'Aunque había estado lloviendo, seguimos adelante con la celebración'",
+      "answer": "In spite of the fact that it had been raining, we went on with the celebration"
+    }
+  ]
+}

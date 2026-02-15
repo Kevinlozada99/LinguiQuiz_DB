@@ -1,0 +1,36 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Fuego'.",
+      "answer": "Fire"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Vaso'.",
+      "answer": "Glass"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Hello",
+      "answer": "Hello"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Casa'?",
+      "options": [ "Chair", "House", "Cake", "Food" ],
+      "answer": "House"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Fork",
+      "answer": "Fork",
+      "options": [ "Knife", "Spoon", "Pot", "Fork" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Apple",
+      "answer": "Apple"      
+    }
+  ]
+}

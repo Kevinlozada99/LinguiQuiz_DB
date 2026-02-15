@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Testigo'.",
+      "answer": "Witness"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Ciudadanía'.",
+      "answer": "Citizenship",
+      "options": [ "Citizenship", "Speech", "Diplomacy", "Civil" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Judge",
+      "answer": "Judge"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Jail",
+      "answer": "Jail",
+      "options": [ "Jury", "Corruption", "Jail", "Murder" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Human rights",
+      "answer": "Human rights"
+    }
+  ]
+}

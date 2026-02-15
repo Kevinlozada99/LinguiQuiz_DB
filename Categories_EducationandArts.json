@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Estudiante'.",
+      "answer": "Student"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Prueba'.",
+      "answer": "Test",
+      "options": [ "Test", "Work", "Homework", "Lesson" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Pencil",
+      "answer": "Pencil"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Blackboard",
+      "answer": "Blackboard",
+      "options": [ "Table", "Notebook", "Blackboard", "Eraser" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Knowledge",
+      "answer": "Knowledge"
+    }
+  ]
+}

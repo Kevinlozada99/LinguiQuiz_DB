@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Librería",
+      "answer": "Bookstore"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Sponge",
+      "answer": "Sponge"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Rodilla'?",
+      "options": [ "Map", "Flight", "Knee", "Pliers" ],
+      "answer": "Knee"
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Umbrella",
+      "answer": "Umbrella"
+    },
+    {
+      "type": "imageMultipleChoice",
+      "imagePath": "Images/Game/Scarf",
+      "options": [ "Scarf", "Fever", "Shelf", "Comb" ],
+      "answer": "Scarf"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Tesoro",
+      "answer": "Treasure"
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Admonition",
+      "answer": "Admonition"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Crecimiento'?",
+      "options": [ "Chapel", "Eager", "Growth", "Mirage" ],
+      "answer": "Growth"
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Framework",
+      "answer": "Framework"
+    },
+    {
+      "type": "imagemultipleChoice",
+      "imagePath": "Images/Game/Magnet",
+      "options": [ "Cane", "Fate", "Lining", "Magnet" ],
+      "answer": "Magnet"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Tratamiento'.",
+      "answer": "Treatment"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Lesión'.",
+      "answer": "Injury",
+      "options": [ "Blood", "Disease", "Tissue", "Injury" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Microscope",
+      "answer": "Microscope"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Stethoscope",
+      "answer": "Stethoscope",
+      "options": [ "Stethoscope", "Microscope", "Thermometer", "Wellness" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Pharmacist",
+      "answer": "Pharmacist"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿{
+  "questions": [
+    {
+      "type": "translation",
+      "question": "Traduce al inglés 'Contraseña'.",
+      "answer": "Password"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Electricidad'.",
+      "answer": "Electricity",
+      "options": [ "Power", "Electricity", "Energy", "Engine" ]
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Bridge",
+      "answer": "Bridge"
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Building",
+      "answer": "Building",
+      "options": [ "Brick", "Machine", "Factory", "Building" ]
+    },
+    {
+      "type": "audio",
+      "audioFile": "Audio/Game/Mechanical engineering",
+      "answer": "Mechanical engineering"
+    }
+  ]
+}
