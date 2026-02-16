@@ -12,6 +12,12 @@
       "options": [ "Test", "Work", "Homework", "Lesson" ]
     },
     {
+      "type": "multiplechoice",
+      "question": "Selecciona la traducción correcta en inglés de 'Facultad'.",
+      "answer": "College",
+      "options": [ "Degree", "College", "University", "School" ]
+    },
+    {
       "type": "image",
       "imagePath": "Images/Game/Pencil",
       "answer": "Pencil"
@@ -28,4 +34,5 @@
       "answer": "Knowledge"
     }
   ]
+
 }
