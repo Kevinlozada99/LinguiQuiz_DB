@@ -6,6 +6,11 @@
       "answer": "Shirt"
     },
     {
+      "type": "translation",
+      "question": "Traduce al inglés 'Chaqueta'.",
+      "answer": "Jacket"
+    },
+    {
       "type": "multiplechoice",
       "question": "Selecciona la traducción correcta en inglés de 'Vestido'.",
       "answer": "Dress",
@@ -29,3 +34,4 @@
     }
   ]
 }
+
