@@ -7,6 +7,91 @@
     },
     {
       "type": "translation",
+      "question": "Traduce a inglés 'Allí'.",
+      "answer": "There"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Azul'.",
+      "answer": "Blue"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Banano'.",
+      "answer": "Banana"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Baño'.",
+      "answer": "Bathroom"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Bebe'.",
+      "answer": "Baby"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Billete'.",
+      "answer": "Bill"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Blusa'.",
+      "answer": "Blouse"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Bolsa'.",
+      "answer": "Bag"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Bueno'.",
+      "answer": "Good"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Botella'.",
+      "answer": "Bottle"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Árbol'.",
+      "answer": "Tree"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Friend'.",
+      "answer": "Amigo"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Box'.",
+      "answer": "Caja"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Socks'.",
+      "answer": "Calcetines"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Mouth'.",
+      "answer": "Boca"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Arm'.",
+      "answer": "Brazo"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Up'.",
+      "answer": "Arriba"
+    },
+    {
+      "type": "translation",
       "question": "Traduce a inglés 'Vaso'.",
       "answer": "Glass"
     },
@@ -290,6 +375,102 @@
       "question": "¿Cuál es la traducción de 'Room'en español?",
       "options": [ "Habitación", "Baño", "Pequeño", "People" ],
       "answer": "People"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Hora'en ingles?",
+      "options": [ "Hour", "Clock", "Temp", "Fire" ],
+      "answer": "Hour"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Hospital'en ingles?",
+      "options": [ "Nurse", "Hospital", "White", "Doctor" ],
+      "answer": "Hospital"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Hotel'en ingles?",
+      "options": [ "Room", "Hostal", "Hotel", "Recepcionist" ],
+      "answer": "Hotel"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Internet'en ingles?",
+      "options": [ "Internet", "Red", "Home", "Conexion" ],
+      "answer": "Internet"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Island'en español?",
+      "options": [ "Isla", "Ir", "Desierto", "Arena" ],
+      "answer": "Isla"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Young'en español?",
+      "options": [ "Edad", "Joven", "Olvido", "Todo" ],
+      "answer": "Joven"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Rain'en español?",
+      "options": [ "Agua", "LLuvia", "Triste", "Solo" ],
+      "answer": "LLuvia"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Sea'en español?",
+      "options": [ "Agua", "Seda", "Mar", "Ser" ],
+      "answer": "Mar"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Woman'en español?",
+      "options": [ "Ella", "Luz", "Mujer", "Ser" ],
+      "answer": "Mujer"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Doll'en español?",
+      "options": [ "Peluche", "Trapo", "Red", "Muñeca" ],
+      "answer": "Muñeca"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Childhood'en español?",
+      "options": [ "Niñez", "Niño", "Más", "Pequeño" ],
+      "answer": "Niñez"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Mano'en ingles?",
+      "options": [ "Hare", "Moon", "Hand", "Head" ],
+      "answer": "Hand"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Niño/Niña'en ingles?",
+      "options": [ "Child", "Women", "He", "Health" ],
+      "answer": "Child"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Miel'en ingles?",
+      "options": [ "Sweet", "Honey", "Money", "More" ],
+      "answer": "Honey"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Moneda'en ingles?",
+      "options": [ "Coin", "Money", "Dinner", "More" ],
+      "answer": "Coin"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Morado'en ingles?",
+      "options": [ "Moon", "Sun", "Purple", "Violet" ],
+      "answer": "Purple"
     },
     {
       "type": "imagemultiplechoice",
