@@ -20,13 +20,259 @@
       "question": "¿Cuál es la traducción de 'Casa'?",
       "options": [ "Chair", "House", "Cake", "Food" ],
       "answer": "House"
+    },    
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Cable'?",
+      "options": [ "Cable", "Call", "Cook", "Sign" ],
+      "answer": "Cable"
+    },     
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Abajo'?",
+      "options": [ "Down", "Dawn", "Forever", "Hand" ],
+      "answer": "Down"
+    },    
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Abrigo'?",
+      "options": [ "Coat", "Caot", "Cead", "Clock" ],
+      "answer": "Coat"
+    }, 
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Inside'?",
+      "options": [ "Adentro", "Afuera", "Rosado", "Abajo" ],
+      "answer": "Adentro"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Airport'?",
+      "options": [ "Avión", "Helicoptero", "Aeropuerto", "Joya" ],
+      "answer": "Aeropuerto"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Outside'?",
+      "options": [ "Adentro", "Abrigo", "Amigo", "Afuera" ],
+      "answer": "Afuera"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Agua'?",
+      "options": [ "Wather", "Water", "Woter", "Win" ],
+      "answer": "Water"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Aldea'?",
+      "options": [ "House", "Home", "Villa", "Village" ],
+      "answer": "Village"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Almohada'?",
+      "options": [ "Almohada", "Home", "Bed", "Pillow" ],
+      "answer": "Pillow"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Yellow'?",
+      "options": [ "Naranja", "Limón", "Amarillo", "Azul" ],
+      "answer": "Amarillo"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Year'?",
+      "options": [ "Dias", "Año", "Proximamente", "Tiempo" ],
+      "answer": "Año"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Aquí'?",
+      "options": [ "Read", "Here", "He", "Him" ],
+      "answer": "Here"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Rice'?",
+      "options": [ "Blanco", "Arroz", "Grano", "Lenteja" ],
+      "answer": "Arroz"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Yesterday'?",
+      "options": [ "Hoy", "Mañana", "Año", "Ayer" ],
+      "answer": "Ayer"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Sugar'?",
+      "options": [ "Azúcar", "Blanco", "Viejo", "Nuevo" ],
+      "answer": "Azúcar"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Blanco'?",
+      "options": [ "White", "Withe", "Black", "Blanck" ],
+      "answer": "White"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Cabeza'?",
+      "options": [ "Hear", "Shower", "Head", "Bank" ],
+      "answer": "Head"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Café'?",
+      "options": [ "Cofe", "Coffe", "Red", "Black" ],
+      "answer": "Coffe"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Caliente'?",
+      "options": [ "Heat", "Jet", "Hot", "Het" ],
+      "answer": "Hot"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Road'?",
+      "options": [ "Bicicleta", "Rodar", "Camino", "Veráz" ],
+      "answer": "Camino"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Shirt'?",
+      "options": [ "Buso", "Camisa", "Mujer", "Hombre" ],
+      "answer": "Camisa"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Centro'?",
+      "options": [ "Center", "Enter", "Red", "Home" ],
+      "answer": "Center"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Cereza'?",
+      "options": [ "Apple", "Red", "Cherry", "Homme" ],
+      "answer": "Cherry"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Ciudad'?",
+      "options": [ "City", "Car", "Night", "Energy" ],
+      "answer": "City"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Coche'?",
+      "options": [ "Bus", "Car", "Night", "Road" ],
+      "answer": "Car"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Color'?",
+      "options": [ "Car", "Gama", "Color", "Blue" ],
+      "answer": "Color"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Corazón'?",
+      "options": [ "Moon", "Read", "Head", "Heart" ],
+      "answer": "Heart"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Cortina'?",
+      "options": [ "Coral", "Cut", "Curtain", "Cortain" ],
+      "answer": "Curtain"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Costa'?",
+      "options": [ "Here", "Care", "Cost", "Coast" ],
+      "answer": "Coast"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Right'?",
+      "options": [ "Rapido", "Lento", "Derecha", "Abajo" ],
+      "answer": "Derecha"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Day'?",
+      "options": [ "Noche", "Dia", "Amarillo", "Luna" ],
+      "answer": "Dia"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Día Festivo'?",
+      "options": [ "Day", "Morning", "Tomorrow", "Holiday" ],
+      "answer": "Holiday"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Doctor'?",
+      "options": [ "Nurse", "Doctor", "Feel", "Nothing" ],
+      "answer": "Doctor"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Salad'?",
+      "options": [ "Salado", "Morado", "Ensalada", "Lechuga" ],
+      "answer": "Ensalada"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Desk'?",
+      "options": [ "Escritorio", "Plano", "Abajo", "Lejos" ],
+      "answer": "Escritorio"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'School'?",
+      "options": [ "Borrador", "Escuela", "Lugar", "Amor" ],
+      "answer": "Escuela"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Esquina'?",
+      "options": [ "Corter", "Corner", "Carrot", "Crazy" ],
+      "answer": "Corner"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Farmacia'?",
+      "options": [ "Pharm", "Hospital", "Pharmacy", "Medium" ],
+      "answer": "Pharmacy"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Feliz'?",
+      "options": [ "Happy", "Fun", "Holiday", "Rise" ],
+      "answer": "Happy"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Feo'?",
+      "options": [ "Fun", "Ugly", "Beautiful", "Exit" ],
+      "answer": "Ugly"
+    },
+    {
+      "type": "multipleChoice",
+      "question": "¿Cuál es la traducción de 'Foto'?",
+      "options": [ "Photo", "Hot", "Beautiful", "Read" ],
+      "answer": "Photo"
     },
     {
       "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Fork",
       "answer": "Fork",
       "options": [ "Knife", "Spoon", "Pot", "Fork" ]
-    },
+    },    
     {
       "type": "image",
       "imagePath": "Images/Game/Apple",
