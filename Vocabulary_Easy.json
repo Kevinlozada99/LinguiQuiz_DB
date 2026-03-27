@@ -57,6 +57,36 @@
     },
     {
       "type": "translation",
+      "question": "Traduce a inglés 'Cama'.",
+      "answer": "Bed"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Diente'.",
+      "answer": "Tooth"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Hoy'.",
+      "answer": "Today"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Juego'.",
+      "answer": "Game"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Juguete'.",
+      "answer": "Toy"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Edificio'.",
+      "answer": "Building"
+    },
+    {
+      "type": "translation",
       "question": "Traduce a inglés 'Árbol'.",
       "answer": "Tree"
     },
@@ -82,6 +112,81 @@
     },
     {
       "type": "translation",
+      "question": "Traduce a español 'Money'.",
+      "answer": "Dinero"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Field'.",
+      "answer": "Campo"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Face'.",
+      "answer": "Cara"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Mirror'.",
+      "answer": "Espejo"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Star'.",
+      "answer": "Estrella"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Meat'.",
+      "answer": "Carne"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Mattress'.",
+      "answer": "Colchón"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Spoon'.",
+      "answer": "Cuchara"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Finger'.",
+      "answer": "Dedo"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Food'.",
+      "answer": "Comida"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Street'.",
+      "answer": "Calle"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Family'.",
+      "answer": "Familia"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Festival'.",
+      "answer": "Festival"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Fruit'.",
+      "answer": "Fruta"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Flower'.",
+      "answer": "Flor"
+    },
+    {
+      "type": "translation",
       "question": "Traduce a español 'Arm'.",
       "answer": "Brazo"
     },
@@ -92,8 +197,53 @@
     },
     {
       "type": "translation",
+      "question": "Traduce a español 'Story'.",
+      "answer": "Historia"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a español 'Man'.",
+      "answer": "Hombre"
+    },
+    {
+      "type": "translation",
       "question": "Traduce a inglés 'Vaso'.",
       "answer": "Glass"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Grande'.",
+      "answer": "Big"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Gris'.",
+      "answer": "Gray"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Hermano'.",
+      "answer": "Brother"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Hermoso'.",
+      "answer": "Beautiful"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Estudiante'.",
+      "answer": "Student"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Fresa'.",
+      "answer": "Strawberry"
+    },
+    {
+      "type": "translation",
+      "question": "Traduce a inglés 'Gafas'.",
+      "answer": "Glasses"
     },
     {
       "type": "audio",
