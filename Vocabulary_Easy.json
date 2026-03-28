@@ -523,8 +523,8 @@
     {
       "type": "multipleChoice",
       "question": "¿Cuál es la traducción de 'Room'en español?",
-      "options": [ "Habitación", "Baño", "Pequeño", "People" ],
-      "answer": "People"
+      "options": [ "Habitación", "Baño", "Pequeño", "Bomba" ],
+      "answer": "Habitación"
     },
     {
       "type": "multipleChoice",
