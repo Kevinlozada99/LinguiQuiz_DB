@@ -20,6 +20,15 @@
       "type": "translation",
       "question": "Traduce a inglés el pasado simple del verbo 'Destruir'",
       "answer": "Destroyed"
-    }
+    },
+    {
+      "type": "verb",
+      "question": "Escribe en inglés los tiempos verbales del verbo 'Comer'",
+      "baseWord": "comer",
+      "answers": {
+        "present": "eat",
+        "past": "ate",
+        "participle": "eaten"
+  }
   ]
 }
