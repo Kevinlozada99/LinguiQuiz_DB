@@ -23,12 +23,10 @@
     },
     {
       "type": "verb",
-      "question": "Escribe en inglés los tiempos verbales del verbo 'Comer'",
-      "baseWord": "comer",
-      "answers": {
-        "present": "eat",
-        "past": "ate",
-        "participle": "eaten"
+      "question": "Escribe los tiempos del verbo 'comer'",
+      "present": "eat",
+      "past": "ate",
+      "participle": "eaten"
   }
-  ]
+ ]
 }
