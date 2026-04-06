@@ -251,6 +251,11 @@
       "answer": "Hello"
     },
     {
+      "type": "audio",
+      "audioFile": "Audio/Game/Morning",
+      "answer": "Morning"
+    },
+    {
       "type": "multipleChoice",
       "question": "¿Cuál es la traducción de 'Casa' en ingles?",
       "options": [ "Chair", "House", "Cake", "Food" ],
@@ -627,11 +632,22 @@
       "imagePath": "Images/Game/Fork",
       "answer": "Fork",
       "options": [ "Knife", "Spoon", "Pot", "Fork" ]
-    },    
+    },
+    {
+      "type": "imagemultiplechoice",
+      "imagePath": "Images/Game/Radio",
+      "answer": "Radio",
+      "options": [ "Radio", "Emisor", "Sound", "Soundbar" ]
+    },
     {
       "type": "image",
       "imagePath": "Images/Game/Apple",
       "answer": "Apple"      
+    },
+    {
+      "type": "image",
+      "imagePath": "Images/Game/Bike",
+      "answer": "Bike"      
     }
   ]
 }
