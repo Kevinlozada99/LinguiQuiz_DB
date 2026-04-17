@@ -644,6 +644,11 @@
       "imagePath": "Images/Game/Apple",
       "answer": "Apple"      
     },
+     {
+      "type": "image",
+      "imagePath": "Images/Game/autobus.webp",
+      "answer": "autobus.webp"      
+    },
     {
       "type": "image",
       "imagePath": "Images/Game/Bike",
