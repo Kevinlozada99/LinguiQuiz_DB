@@ -5,6 +5,16 @@
       "question": "Tesoro",
       "answer": "Treasure"
     },
+     {
+      "type": "translation",
+      "question": "Interaction",
+      "answer": "Interacción"
+    },
+     {
+      "type": "translation",
+      "question": "Interpretation",
+      "answer": "Interpretación"
+    },
     {
       "type": "audio",
       "audioFile": "Audio/Game/Admonition",
