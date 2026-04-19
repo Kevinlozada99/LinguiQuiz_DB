@@ -11,7 +11,7 @@
       "answer": "Sponge"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Rodilla'?",
       "options": [ "Map", "Flight", "Knee", "Pliers" ],
       "answer": "Knee"
@@ -22,7 +22,7 @@
       "answer": "Umbrella"
     },
     {
-      "type": "imageMultipleChoice",
+      "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Scarf",
       "options": [ "Scarf", "Fever", "Shelf", "Comb" ],
       "answer": "Scarf"
