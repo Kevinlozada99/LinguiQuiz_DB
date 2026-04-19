@@ -610,19 +610,19 @@
       "answer": "Child"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Miel'en ingles?",
       "options": [ "Sweet", "Honey", "Money", "More" ],
       "answer": "Honey"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Moneda'en ingles?",
       "options": [ "Coin", "Money", "Dinner", "More" ],
       "answer": "Coin"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Morado'en ingles?",
       "options": [ "Moon", "Sun", "Purple", "Violet" ],
       "answer": "Purple"
