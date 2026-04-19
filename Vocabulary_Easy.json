@@ -532,79 +532,79 @@
       "answer": "Habitación"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Hora'en ingles?",
       "options": [ "Hour", "Clock", "Temp", "Fire" ],
       "answer": "Hour"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Hospital'en ingles?",
       "options": [ "Nurse", "Hospital", "White", "Doctor" ],
       "answer": "Hospital"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Hotel'en ingles?",
       "options": [ "Room", "Hostal", "Hotel", "Recepcionist" ],
       "answer": "Hotel"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Internet'en ingles?",
       "options": [ "Internet", "Red", "Home", "Conexion" ],
       "answer": "Internet"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Island'en español?",
       "options": [ "Isla", "Ir", "Desierto", "Arena" ],
       "answer": "Isla"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Young'en español?",
       "options": [ "Edad", "Joven", "Olvido", "Todo" ],
       "answer": "Joven"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Rain'en español?",
       "options": [ "Agua", "LLuvia", "Triste", "Solo" ],
       "answer": "LLuvia"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Sea'en español?",
       "options": [ "Agua", "Seda", "Mar", "Ser" ],
       "answer": "Mar"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Woman'en español?",
       "options": [ "Ella", "Luz", "Mujer", "Ser" ],
       "answer": "Mujer"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Doll'en español?",
       "options": [ "Peluche", "Trapo", "Red", "Muñeca" ],
       "answer": "Muñeca"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Childhood'en español?",
       "options": [ "Niñez", "Niño", "Más", "Pequeño" ],
       "answer": "Niñez"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Mano'en ingles?",
       "options": [ "Hare", "Moon", "Hand", "Head" ],
       "answer": "Hand"
     },
     {
-      "type": "multipleChoice",
+      "type": "multiplechoice",
       "question": "¿Cuál es la traducción de 'Niño/Niña'en ingles?",
       "options": [ "Child", "Women", "He", "Health" ],
       "answer": "Child"
