@@ -6,6 +6,306 @@
       "answer": "Bookstore"
     },
     {
+      "type": "translation",
+      "question": "Translate 'Acera' into english.",
+      "answer": "Sidewalk"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Escoba' into english.",
+      "answer": "Broom"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Estación' into english.",
+      "answer": "Station"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Otoño' into english.",
+      "answer": "Autumn"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Pizarra' into english.",
+      "answer": "Blackboard"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Sotano' into english.",
+      "answer": "Basement"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Escalera' into english.",
+      "answer": "Staircase"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Aduana' into english.",
+      "answer": "Customs"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Agenda' into english.",
+      "answer": "Planner"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Aguja' into english.",
+      "answer": "Needle"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Agujero Negro' into english.",
+      "answer": "Black Hole"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Alicate' into english.",
+      "answer": "Pliers"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Alimento' into english.",
+      "answer": "Food Item"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Almacen' into english.",
+      "answer": "Storehouse"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Andén' into english.",
+      "answer": "Platform"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Archivo' into english.",
+      "answer": "File"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Arete' into english.",
+      "answer": "Earring"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Ascensor' into english.",
+      "answer": "Elevator"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Asiento' into english.",
+      "answer": "Seat"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Autopista' into english.",
+      "answer": "Freeway"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Barniz' into english.",
+      "answer": "Varnish"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Avenida' into english.",
+      "answer": "Avenue"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Billete De Avión' into english.",
+      "answer": "Plane Ticket"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Bolígrafo' into english.",
+      "answer": "Pen"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Bolsillo' into english.",
+      "answer": "Pocket"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Bordado' into english.",
+      "answer": "Embroidery"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Bosque' into english.",
+      "answer": "Forest"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Contraportada' into english.",
+      "answer": "Back Cover"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Correo' into english.",
+      "answer": "Mail"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Cuaderno' into english.",
+      "answer": "Notebook"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Cubo' into english.",
+      "answer": "Bucket"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Dolor' into english.",
+      "answer": "Pain"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Editorial' into english.",
+      "answer": "Editorial"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Dulce' into english.",
+      "answer": "Sweet"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Edredón' into english.",
+      "answer": "Duvet"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Enciclopedia' into english.",
+      "answer": "Encyclopedia"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Enfermera' into english.",
+      "answer": "Nurse"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Equipaje' into english.",
+      "answer": "Luggage"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Equipo' into english.",
+      "answer": "Team"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Snack' into Spanish.",
+      "answer": "Botana"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Button' into Spanish.",
+      "answer": "Botón"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Quality' into Spanish.",
+      "answer": "Calidad"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Padlock' into Spanish.",
+      "answer": "Candado"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Folder' into Spanish.",
+      "answer": "Carpeta"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Poster' into Spanish.",
+      "answer": "Cartel"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Mall' into Spanish.",
+      "answer": "Centro Comercial"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Brush' into Spanish.",
+      "answer": "Cepillo"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Brain' into Spanish.",
+      "answer": "Cerebro"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Fireplace' into Spanish.",
+      "answer": "Chimenea"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Nail' into Spanish.",
+      "answer": "Clavo"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Weather' into Spanish.",
+      "answer": "Clima"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Paperclip' into Spanish.",
+      "answer": "Clip"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Necklace' into Spanish.",
+      "answer": "Collar"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Shelf' into Spanish.",
+      "answer": "Estante"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Statue' into Spanish.",
+      "answer": "Estatua"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Stomach' into Spanish.",
+      "answer": "Estomago"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Shooting Star' into Spanish.",
+      "answer": "Estrella fugaz"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Exam' into Spanish.",
+      "answer": "Examen"
+    },
+     {
+      "type": "translation",
+      "question": "Translate 'Trip' into Spanish.",
+      "answer": "Excursión"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Factory' into Spanish.",
+      "answer": "Fábrica"
+    },
+    {
       "type": "audio",
       "audioFile": "Audio/Game/Sponge",
       "answer": "Sponge"
