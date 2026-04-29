@@ -348,6 +348,18 @@
     },
     {
       "type": "multiplechoice",
+      "question": "What is the translation of "Foto De Portada" in English'?",
+      "options": [ "Photo", "Portad", "Cover Photo", "Roud port" ],
+      "answer": "Cover Photo"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of "Mostrador" in English'?",
+      "options": [ "Roard", "Repist", "Mostrar", "Counter" ],
+      "answer": "Counter"
+    },
+    {
+      "type": "multiplechoice",
       "question": "What is the translation of "Armario" in English'?",
       "options": [ "Closet", "Arm", "Mader", "Tape" ],
       "answer": "Closet"
