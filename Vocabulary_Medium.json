@@ -317,6 +317,18 @@
       "answer": "Knee"
     },
     {
+      "type": "multiplechoice",
+      "question": "What is the translation of "Alfombra" in English'?",
+      "options": [ "Alfrom", "Carpet", "Alf", "Tape" ],
+      "answer": "Carpet"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of "Armario" in English'?",
+      "options": [ "Closet", "Arm", "Mader", "Tape" ],
+      "answer": "Closet"
+    },
+    {
       "type": "image",
       "imagePath": "Images/Game/Umbrella",
       "answer": "Umbrella"
