@@ -318,7 +318,7 @@
     },
     {
       "type": "multiplechoice",
-      "question": "What is the translation of "Alfombra" in English'?",
+      "question": "What is the translation of 'Alfombra' in English'?",
       "options": [ "Alfrom", "Carpet", "Alf", "Tape" ],
       "answer": "Carpet"
     },
