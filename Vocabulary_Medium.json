@@ -378,6 +378,42 @@
     },
     {
       "type": "multiplechoice",
+      "question": "What is the translation of 'Multitud' in English'?",
+      "options": [ "Cave", "People", "Much", "Crowd" ],
+      "answer": "Crowd"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Observatorio' in English'?",
+      "options": [ "Came", "City", "Observatory", "Look" ],
+      "answer": "Observatory"
+    },
+     {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Océano' in English'?",
+      "options": [ "Ocean", "Mar", "More", "Water" ],
+      "answer": "Ocean"
+    },
+     {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Oficina' in English'?",
+      "options": [ "Team", "Ofic", "Office", "Ofice" ],
+      "answer": "Office"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Operación' in English'?",
+      "options": [ "Real", "Operation", "Oclock", "Operacion" ],
+      "answer": "Operation"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Pegamento' in English'?",
+      "options": [ "White", "Slime", "Pegament", "Glue" ],
+      "answer": "Glue"
+    },
+    {
+      "type": "multiplechoice",
       "question": "What is the translation of 'Celebración' in English'?",
       "options": [ "More", "Party", "Cell", "Celebration" ],
       "answer": "Celebration"
@@ -396,9 +432,141 @@
     },
     {
       "type": "multiplechoice",
+      "question": "What is the translation of 'Ropa' in English'?",
+      "options": [ "Clothes", "Jacket", "Black", "Ride" ],
+      "answer": "Clothes"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Tiza' in English'?",
+      "options": [ "Tiza", "Market", "Pencil", "Chalk" ],
+      "answer": "Chalk"
+    },
+    {
+      "type": "multiplechoice",
       "question": "What is the translation of 'Cliente' in English'?",
       "options": [ "Customer", "Proveer", "Cliet", "Road" ],
       "answer": "Customer"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Library' in Spanish'?",
+      "options": [ "Libros", "Libreria", "Silencio", "Libra" ],
+      "answer": "Libreria"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Hinge' in Spanish'?",
+      "options": [ "Repiza", "Bisa", "Bisagra", "Fuerte" ],
+      "answer": "Bisagra"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Light Bulb' in Spanish'?",
+      "options": [ "Bombilla", "Luz", "Luz grande", "Linterna" ],
+      "answer": "Bombilla"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Highway' in Spanish'?",
+      "options": [ "Unión", "Carretera", "Pista", "Carrera" ],
+      "answer": "Carretera"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Lock' in Spanish'?",
+      "options": [ "Seguridad", "Reloj", "Cerradura", "Hora" ],
+      "answer": "Cerradura"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Lace' in Spanish'?",
+      "options": [ "Encaje", "Lazo", "Largo", "Medio" ],
+      "answer": "Encaje"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Galaxy' in Spanish'?",
+      "options": [ "Galaxia", "Constelación", "Estrella", "Tiempo" ],
+      "answer": "Galaxia"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Garage' in Spanish'?",
+      "options": [ "Venta", "Garaje", "Espacio", "Carro" ],
+      "answer": "Garaje"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Globe' in Spanish'?",
+      "options": [ "Aire", "Globo Terráqueo", "Esfera", "Alto" ],
+      "answer": "Globo Terráqueo"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Glossary' in Spanish'?",
+      "options": [ "Glosario", "Palabras", "Diccionario", "Cantidad" ],
+      "answer": "Glosario"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Gloves' in Spanish'?",
+      "options": [ "Globo", "Aire", "Guantes", "Plastico" ],
+      "answer": "Guantes"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Lake' in Spanish'?",
+      "options": [ "Lago", "Falso", "Lazo", "Equipo" ],
+      "answer": "Lago"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Hammer' in Spanish'?",
+      "options": [ "Martillo", "Hambre", "Juego", "Desequilibrio" ],
+      "answer": "Martillo"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Comb' in Spanish'?",
+      "options": [ "Aguja", "Agujeta", "Peine", "Real" ],
+      "answer": "Peine"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Loan' in Spanish'?",
+      "options": [ "Solo", "Relajado", "Préstamo", "Real" ],
+      "answer": "Préstamo"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Health' in Spanish'?",
+      "options": [ "Corazón", "Salud", "Bombear", "Cansón" ],
+      "answer": "Salud"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Frying pan' in Spanish'?",
+      "options": [ "Logro", "Grande", "Sartén", "Pequeño" ],
+      "answer": "Sartén"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Health Insurance' in Spanish'?",
+      "options": [ "Asegurador", "Seguro Médico", "Bienestar", "Normal" ],
+      "answer": "Seguro Médico"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Headline' in Spanish'?",
+      "options": [ "Salud", "Titular", "Amor", "Calma" ],
+      "answer": "Titular"
+    },
+    {
+      "type": "multiplechoice",
+      "question": "What is the translation of 'Lesson' in Spanish'?",
+      "options": [ "Lado", "Lección", "Apendizaje", "Dos" ],
+      "answer": "Lección"
     },
     {
       "type": "multiplechoice",
