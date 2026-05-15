@@ -22,6 +22,26 @@
     },
     {
       "type": "translation",
+      "question": "Translate 'Symbol' into Spanish",
+      "answer": "Símbolo"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'System' into Spanish",
+      "answer": "Sistema"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Sustainability' into Spanish",
+      "answer": "Sostenibilidad"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Subsidy' into Spanish",
+      "answer": "Subsidio"
+    },
+    {
+      "type": "translation",
       "question": "Translate 'Interaction' into Spanish",
       "answer": "Interacción"
     },
@@ -269,6 +289,51 @@
       "type": "translation",
       "question": "Translate 'Symbolism' into Spanish",
       "answer": "Simbolismo"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Substance' into Spanish",
+      "answer": "Sustancia"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Tapestry' into Spanish",
+      "answer": "Tapiz"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Technique' into Spanish",
+      "answer": "Técnica"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Technology' into Spanish",
+      "answer": "Tecnología"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Teja' into English",
+      "answer": "Tile"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Theory' into Spanish",
+      "answer": "Teoría"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Trono' into English",
+      "answer": "Throne"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Tumba' into English",
+      "answer": "Tomb"
+    },
+    {
+      "type": "translation",
+      "question": "Translate 'Viga' into English",
+      "answer": "Beam"
     },
     {
       "type": "audio",
