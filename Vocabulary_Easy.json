@@ -649,7 +649,7 @@
     },
      {
       "type": "image",
-      "imagePath": "Images/Game/Autobus.webp",
+      "imagePath": "Images/Game/Autobus",
       "imageReference": "Autobus",
       "answer": "Autobus"      
     },
