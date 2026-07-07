@@ -630,33 +630,33 @@
     {
       "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Fork",
-      "imageReference": "Fork",
+      "imageReference": "Tomado de: Fork",
       "answer": "Fork",
       "options": [ "Knife", "Spoon", "Pot", "Fork" ]
     },
     {
       "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Radio",
-      "imageReference": "Radio",
+      "imageReference": "Tomado de: Radio",
       "answer": "Radio",
       "options": [ "Radio", "Emisor", "Sound", "Soundbar" ]
     },
     {
       "type": "image",
       "imagePath": "Images/Game/Apple",
-      "imageReference": "Apple",
+      "imageReference": "Tomado de: Apple",
       "answer": "Apple"      
     },
      {
       "type": "image",
       "imagePath": "Images/Game/Autobus",
-      "imageReference": "Autobus",
+      "imageReference": "Tomado de: Autobus",
       "answer": "Autobus"      
     },
     {
       "type": "image",
       "imagePath": "Images/Game/Bike",
-      "imageReference": "Bike",
+      "imageReference": "Tomado de: Bike",
       "answer": "Bike"      
     }
   ]
