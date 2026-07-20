@@ -4,6 +4,17 @@
       "type": "matching",
       "question": "Empareja las palabras con su traducción correcta",
       "pairs": [
+        {"left": "Abajo", "right": "Down"},
+        {"left": "Abrigo", "right": "Coat"},
+        {"left": "Acantilado", "right": "Cliff"},
+        {"left": "Acera", "right": "Sidewalk"},
+        {"left": "Acueducto", "right": "Aqueduct"},
+        {"left": "Acuerdo", "right": "Accord"},
+        {"left": "Adaptación", "right": "Adaptation"},
+        {"left": "Adentro", "right": "Inside"},
+        {"left": "Aduana", "right": "Customs"},
+        {"left": "Advertencia", "right": "Admonition"},
+        {"left": "Aeropuerto", "right": "Airport"},
         {
           "left": "Perro",
           "right": "Dog"
