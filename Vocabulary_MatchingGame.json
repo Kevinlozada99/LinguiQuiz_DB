@@ -59,7 +59,8 @@
         {
           "left": "Teclado",
           "right": "Keyboard"
-        }
+        },
+        {"left": "Vaso", "right": "Glass"}
       ]
     }
   ]
