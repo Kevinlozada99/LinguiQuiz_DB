@@ -60,7 +60,11 @@
           "left": "Teclado",
           "right": "Keyboard"
         },
-        {"left": "Vaso", "right": "Glass"}
+        {"left": "Valle", "right": "Valley"},
+        {"left": "Valor", "right": "Value"},
+        {"left": "Variable", "right": "Variable"},
+        {"left": "Vaso", "right": "Glass"},
+        {"left": "Vecindario", "right": "Neighborhood"}
       ]
     }
   ]
