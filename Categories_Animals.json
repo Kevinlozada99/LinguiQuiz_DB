@@ -19,12 +19,14 @@
     {
       "type": "image",
       "imagePath": "Images/Game/Rabbit",
+      "imageReference": "Tomado de: Rabbit.com",
       "answer": ["Rabbit"]
     },
     {
       "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Parrot",
       "answer": ["Parrot"],
+      "imageReference": "Tomado de: Parrot.com",
       "options": [ "Canary", "Chicken", "Parrot","Bird" ]
     },
     {
