@@ -3,17 +3,17 @@
     {
       "type": "translation",
       "question": "Traduce a inglés la frase 'Ellos no están bailando salsa'",
-      "answer": "They aren't dancing salsa"
+      "answer": ["They aren't dancing salsa", "They're not dancing salsa"]
     },
     {
       "type": "translation",
       "question": "Traduce a inglés la frase 'Ella no me ayudará'",
-      "answer": "Dog"
+      "answer": ["Dog"]
     },
     {
       "type": "translation",
       "question": "Traduce a inglés la frase '¿Están trabajando los niños?'",
-      "answer": "Are the children working?"
+      "answer": "[Are the children working?"]
     }
   ]
 }
