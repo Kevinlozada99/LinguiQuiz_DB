@@ -13,7 +13,7 @@
     {
       "type": "translation",
       "question": "Traduce a inglés la frase '¿Están trabajando los niños?'",
-      "answer": "[Are the children working?"]
+      "answer": ["Are the children working?"]
     }
   ]
 }
