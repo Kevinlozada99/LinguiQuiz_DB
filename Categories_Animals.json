@@ -25,8 +25,8 @@
     {
       "type": "imagemultiplechoice",
       "imagePath": "Images/Game/Parrot",
-      "answer": ["Parrot"],
       "imageReference": "Tomado de: Parrot.com",
+      "answer": ["Parrot"],      
       "options": [ "Canary", "Chicken", "Parrot","Bird" ]
     },
     {
