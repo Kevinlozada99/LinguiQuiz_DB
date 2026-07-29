@@ -3,23 +3,23 @@
     {
       "type": "translation",
       "question": "Traduce a inglés el presente del verbo 'Abandonar'",
-      "answer": "Abandon"
+      "answer": ["Abandon"]
     },
     {
       "type": "audio",
       "audioFile": "Audio/Game/Accented",
-      "answer": "Accented"
+      "answer": ["Accented"]
     },
     {
       "type": "multipleChoice",
       "question": "¿Cuál es el pasado participio en inglés del verbo 'Vivir'?",
       "options": [ "Live", "Lived", "Living", "Life" ],
-      "answer": "Lived"
+      "answer": ["Lived"]
     },
     {
       "type": "translation",
       "question": "Traduce a inglés el pasado simple del verbo 'Destruir'",
-      "answer": "Destroyed"
+      "answer": ["Destroyed"]
     },
     {
       "type": "verb",
