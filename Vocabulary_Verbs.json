@@ -24,9 +24,9 @@
     {
       "type": "verb",
       "question": "Escribe los tiempos del verbo 'comer'",
-      "present": "eat",
-      "past": "ate",
-      "participle": "eaten"
+      "present": ["eat"],
+      "past": ["ate"],
+      "participle": ["eaten"]
   }
  ]
 }
