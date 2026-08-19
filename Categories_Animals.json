@@ -2,42 +2,9 @@
   "questions": [
     {"type": "translation", "question": "Traduce a inglés la palabra: Caballo","answer": ["Horse"]},
     {"type": "translation", "question": "Traduce a inglés la palabra: Oveja","answer": ["Sheep"]},
-
-
-    
-    {
-      "type": "translation",
-      "question": "Traduce al inglés: 'Oveja'.",
-      "answer": ["Sheep"]
-    },
-    {
-      "type": "translation",
-      "question": "Traduce al inglés: 'Caballo'.",
-      "answer": ["Horse"]
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Gallo'.",
-      "answer": ["Rooster"],
-      "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Rabbit",
-      "imageReference": "Tomado de: Rabbit.com",
-      "answer": ["Rabbit"]
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Parrot",
-      "imageReference": "Tomado de: Parrot.com",
-      "answer": ["Parrot"],      
-      "options": [ "Canary", "Chicken", "Parrot","Bird" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Turtle",
-      "answer": ["Turtle"]
-    }
+    {"type": "multiplechoice", "question": "Gallo", "answer": ["Rooster"], "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]},
+    {"type": "image", "imagePath": "Images/Game/Rabbit", "imageReference": "Tomado de: Rabbit.com", "answer": ["Rabbit"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Parrot", "imageReference": "Tomado de: ", "answer": ["Parrot"], "options": [ "Canary", "Chicken", "Parrot", "Bird" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Turtle", "answer": ["Turtle"]}
   ]
 }
