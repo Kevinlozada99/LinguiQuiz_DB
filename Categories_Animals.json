@@ -1,5 +1,18 @@
 {
   "questions": [
+    {"type": "translation", "question": "Traduce a inglés la palabra: Compañero de clase","answer": ["Classmate"]},
+    {"type": "translation", "question": "Trapeador","answer": ["Mop"]},
+    {"type": "translation", "question": "Termómetro","answer": ["Thermometer"]},
+    {"type": "translation", "question": "Caballo","answer": ["Horse"]},
+    {"type": "translation", "question": "Oveja","answer": ["Sheep"]},
+    {"type": "translation", "question": "Aceite","answer": ["Oil"]},
+    {"type": "translation", "question": "Camisa","answer": ["Shirt"]},
+    {"type": "translation", "question": "Chaqueta","answer": ["Jacket"]},
+    {"type": "translation", "question": "Plateado","answer": ["Silver"]},
+    {"type": "translation", "question": "Doce","answer": ["Twelve"]},
+    {"type": "translation", "question": "Iglesia","answer": ["Church"]},
+
+    
     {
       "type": "translation",
       "question": "Traduce al inglés: 'Oveja'.",
