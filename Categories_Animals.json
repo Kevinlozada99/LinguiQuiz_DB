@@ -1,8 +1,8 @@
 {
   "questions": [
     {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Caballo'</size></color></b>", "answer": ["Horse"]},
-    {"type": "translation", "question": "Traduce a inglés la palabra: Oveja","answer": ["Sheep"]},
-    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: Gallo", "answer": ["Rooster"], "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Oveja'</size></color></b>", "answer": ["Sheep"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Gallo'</size></color></b>", "answer": ["Rooster"], "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]},
     {"type": "image", "imagePath": "Images/Game/Rabbit", "imageReference": "Tomado de: Rabbit.com", "answer": ["Rabbit"]},
     {"type": "imagemultiplechoice", "imagePath": "Images/Game/Parrot", "imageReference": "Tomado de: ", "answer": ["Parrot"], "options": [ "Canary", "Chicken", "Parrot", "Bird" ]},
     {"type": "audio", "audioFile": "Audio/Game/Turtle", "answer": ["Turtle"]}
