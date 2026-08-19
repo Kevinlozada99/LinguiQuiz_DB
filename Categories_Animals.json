@@ -1,6 +1,6 @@
 {
   "questions": [
-    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#B7791F><size=130%>'Caballo'</size></color></b>", "answer": ["Horse"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Caballo'</size></color></b>", "answer": ["Horse"]},
     {"type": "translation", "question": "Traduce a inglés la palabra: Oveja","answer": ["Sheep"]},
     {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: Gallo", "answer": ["Rooster"], "options": [ "Chicken", "Turkey", "Parrot", "Rooster" ]},
     {"type": "image", "imagePath": "Images/Game/Rabbit", "imageReference": "Tomado de: Rabbit.com", "answer": ["Rabbit"]},
