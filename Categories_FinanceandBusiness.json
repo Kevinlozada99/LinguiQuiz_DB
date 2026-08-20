@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Presupuesto'.",
-      "answer": "Budget"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Impuesto'.",
-      "answer": "Tax",
-      "options": [ "Profit", "Law", "Invoice", "Tax" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Money",
-      "answer": "Money"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Market",
-      "answer": "Market",
-      "options": [ "Market", "Savings", "Wage", "Branch" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Mortgage",
-      "answer": "Mortgage"
-    }
+    {"type": "image", "imagePath": "Images/Game/Money", "imageReference": "Tomado de: Money.com", "answer": ["Money"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Presupuesto'</size></color></b>", "answer": ["Budget"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Impuesto'</size></color></b>", "answer": ["Tax"], "options": [ "Profit", "Law", "Invoice", "Tax" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Mortgage", "answer": ["Mortgage"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Market", "imageReference": "Tomado de: ", "answer": ["Market"], "options": [ "Market", "Savings", "Wage", "Branch" ]}
   ]
 }
