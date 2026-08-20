@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Senderismo'.",
-      "answer": "Hiking"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Trotar'.",
-      "answer": "Jogging",
-      "options": [ "Running", "Jogging", "Rollerblading", "Diving" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Kite",
-      "answer": "Kite"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Chess",
-      "answer": "Chess",
-      "options": [ "Board games", "Chess", "Darts", "Archery" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Horse riding",
-      "answer": "Horse riding"
-    }
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Trotar'</size></color></b>", "answer": ["Jogging"], "options": [ "Running", "Jogging", "Rollerblading", "Diving" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Senderismo'</size></color></b>", "answer": ["Hiking"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Chess", "imageReference": "Tomado de: ", "answer": ["Chess"], "options": [ "Board games", "Chess", "Darts", "Archery" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Horse riding", "answer": ["Horse riding"]},
+    {"type": "image", "imagePath": "Images/Game/Kite", "imageReference": "Tomado de: Kite.com", "answer": ["Kite"]}
   ]
 }
