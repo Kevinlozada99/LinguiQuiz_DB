@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Contraseña'.",
-      "answer": "Password"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Electricidad'.",
-      "answer": "Electricity",
-      "options": [ "Power", "Electricity", "Energy", "Engine" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Bridge",
-      "answer": "Bridge"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Building",
-      "answer": "Building",
-      "options": [ "Brick", "Machine", "Factory", "Building" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Mechanical engineering",
-      "answer": "Mechanical engineering"
-    }
+    {"type": "image", "imagePath": "Images/Game/Bridge", "imageReference": "Tomado de: Bridge.com", "answer": ["Bridge"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Building", "imageReference": "Tomado de: ", "answer": ["Building"], "options": [ "Brick", "Machine", "Factory", "Building" ]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Electricidad'</size></color></b>", "answer": ["Electricity"], "options": [ "Power", "Electricity", "Energy", "Engine" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Contraseña'</size></color></b>", "answer": ["Password"]},
+    {"type": "audio", "audioFile": "Audio/Game/Mechanical engineering", "answer": ["Mechanical engineering"]}
   ]
 }
