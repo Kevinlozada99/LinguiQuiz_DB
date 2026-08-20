@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Tratamiento'.",
-      "answer": "Treatment"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Lesión'.",
-      "answer": "Injury",
-      "options": [ "Blood", "Disease", "Tissue", "Injury" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Microscope",
-      "answer": "Microscope"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Stethoscope",
-      "answer": "Stethoscope",
-      "options": [ "Stethoscope", "Microscope", "Thermometer", "Wellness" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Pharmacist",
-      "answer": "Pharmacist"
-    }
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Tratamiento'</size></color></b>", "answer": ["Treatment"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Lesión'</size></color></b>", "answer": ["Injury"], "options": [ "Blood", "Disease", "Tissue", "Injury" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Pharmacist", "answer": ["Pharmacist"]},
+    {"type": "image", "imagePath": "Images/Game/Microscope", "imageReference": "Tomado de: Microscope.com", "answer": ["Microscope"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Stethoscope", "imageReference": "Tomado de: ", "answer": ["Stethoscope"], "options": [ "Stethoscope", "Microscope", "Thermometer", "Wellness" ]}
   ]
 }
