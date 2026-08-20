@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Iglesia'.",
-      "answer": "Church"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Teatro'.",
-      "answer": "Theater",
-      "options": [ "Factory", "Temple", "Theater", "Cinema" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Train",
-      "answer": "Train"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Forest",
-      "answer": "Forest",
-      "options": [ "Town", "Lake", "Beach", "Forest" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Harbor",
-      "answer": "Harbor"
-    }
+    {"type": "audio", "audioFile": "Audio/Game/Harbor", "answer": ["Harbor"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Teatro'</size></color></b>", "answer": ["Theater"], "options": [ "Factory", "Temple", "Theater", "Cinema" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Iglesia'</size></color></b>", "answer": ["Church"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Forest", "imageReference": "Tomado de: ", "answer": ["Forest"], "options": [ "Town", "Lake", "Beach", "Forest" ]},
+    {"type": "image", "imagePath": "Images/Game/Train", "imageReference": "Tomado de: Train.com", "answer": ["Train"]}
   ]
 }
