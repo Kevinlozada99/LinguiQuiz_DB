@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Plateado'.",
-      "answer": "Silver"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Arcoíris'.",
-      "answer": "Rainbow",
-      "options": [ "Teal", "Gold", "Rainbow", "Arrow" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Heart",
-      "answer": "Heart"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Arrow",
-      "answer": "Arrow",
-      "options": [ "Cross", "Arrow", "Wave", "Square" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Parallelogram",
-      "answer": "Parallelogram"
-    }
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Plateado'</size></color></b>", "answer": ["Silver"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Arcoíris'</size></color></b>", "answer": ["Rainbow"], "options": [ "Teal", "Gold", "Rainbow", "Arrow" ]},
+    {"type": "image", "imagePath": "Images/Game/Heart", "imageReference": "Tomado de: Heart.com", "answer": ["Heart"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Arrow", "imageReference": "Tomado de: ", "answer": ["Arrow"], "options": [ "Cross", "Arrow", "Wave", "Square" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Parallelogram", "answer": ["Parallelogram"]}
   ]
 }
