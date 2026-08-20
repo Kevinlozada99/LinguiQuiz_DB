@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Doce'.",
-      "answer": "Twelve"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Cuarto'.",
-      "answer": "Fourth",
-      "options": [ "Four", "Fourteen", "Fourth", "Forty" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Moon",
-      "answer": "Moon"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Cloud",
-      "answer": "Cloud",
-      "options": [ "Thunder", "Cloud", "Wind", "Fog" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Evening",
-      "answer": "Evening"
-    }
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Doce'</size></color></b>", "answer": ["Twelve"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Cuarto'</size></color></b>", "answer": ["Fourth"], "options": [ "Four", "Fourteen", "Fourth", "Forty" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Evening", "answer": ["Evening"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Cloud", "imageReference": "Tomado de: ", "answer": ["Cloud"], "options": [ "Thunder", "Cloud", "Wind", "Fog" ]},
+    {"type": "image", "imagePath": "Images/Game/Moon", "imageReference": "Tomado de: Moon.com", "answer": ["Moon"]}
   ]
 }
