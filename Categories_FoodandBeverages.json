@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Aceite'.",
-      "answer": "Oil"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Fresa'.",
-      "answer": "Strawberry",
-      "options": [ "Grape", "Blueberry", "Watermelon", "Strawberry" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Egg",
-      "answer": "Egg"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Burger",
-      "answer": "Burger",
-      "options": [ "Cheese", "Burger", "Butter", "Seafood" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Noodles",
-      "answer": "Noodles"
-    }
+    {"type": "audio", "audioFile": "Audio/Game/Noodles", "answer": ["Noodles"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Burger", "imageReference": "Tomado de: ", "answer": ["Burger"], "options": [ "Cheese", "Burguer", "Butter", "Seafood" ]},
+    {"type": "image", "imagePath": "Images/Game/Egg", "imageReference": "Tomado de: Egg.com", "answer": ["Egg"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Fresa'</size></color></b>", "answer": ["Strawberry"], "options": [ "Grape", "Blueberry", "Watermelon", "Strawberry" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Aceite'</size></color></b>", "answer": ["Oil"]}
   ]
 }
