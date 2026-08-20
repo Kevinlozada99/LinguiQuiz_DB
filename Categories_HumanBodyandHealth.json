@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Termómetro'.",
-      "answer": "Thermometer"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Pulmón'.",
-      "answer": "Lung",
-      "options": [ "Waist", "Lung", "Tongue", "Pain" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Ear",
-      "answer": "Ear"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Brain",
-      "answer": "Brain",
-      "options": [ "Brain", "Head", "Hand", "Bone" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Healthy",
-      "answer": "Healthy"
-    }
+    {"type": "image", "imagePath": "Images/Game/Ear", "imageReference": "Tomado de: Ear.com", "answer": ["Ear"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Pulmón'</size></color></b>", "answer": ["Lung"], "options": [ "Waist", "Lung", "Tongue", "Pain" ]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Brain", "imageReference": "Tomado de: ", "answer": ["Brain"], "options": [ "Brain", "Head", "Hand", "Bone" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Termómetro'</size></color></b>", "answer": ["Thermometer"]},
+    {"type": "audio", "audioFile": "Audio/Game/Healthy", "answer": ["Healthy"]}
   ]
 }
