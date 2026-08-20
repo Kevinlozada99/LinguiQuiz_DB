@@ -1,38 +1,10 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Estudiante'.",
-      "answer": "Student"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Prueba'.",
-      "answer": "Test",
-      "options": [ "Test", "Work", "Homework", "Lesson" ]
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Facultad'.",
-      "answer": "College",
-      "options": [ "Degree", "College", "University", "School" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Pencil",
-      "answer": "Pencil"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Blackboard",
-      "answer": "Blackboard",
-      "options": [ "Table", "Notebook", "Blackboard", "Eraser" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Knowledge",
-      "answer": "Knowledge"
-    }
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Estudiante'</size></color></b>", "answer": ["Student"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Prueba'</size></color></b>", "answer": ["Test"], "options": [ "Test", "Work", "Homework", "Lesson" ]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Facultad'</size></color></b>", "answer": ["College"], "options": [ "Degree", "College", "University", "School" ]},
+    {"type": "image", "imagePath": "Images/Game/Pencil", "imageReference": "Tomado de: Pencil.com", "answer": ["Pencil"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Blackboard", "imageReference": "Tomado de: ", "answer": ["Blackboard"], "options": [ "Table", "Notebook", "Blackboard", "Eraser" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Knowledge", "answer": ["Knowledge"]}   
   ]
-
 }
