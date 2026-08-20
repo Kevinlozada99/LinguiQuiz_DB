@@ -1,37 +1,11 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Camisa'.",
-      "answer": "Shirt"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Chaqueta'.",
-      "answer": "Jacket"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Vestido'.",
-      "answer": "Dress",
-      "options": [ "Tie", "Dress", "Vest", "T-shirt" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Tie",
-      "answer": "Tie"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Hat",
-      "answer": "Hat",
-      "options": [ "Hat", "Coat", "Cap", "Belt" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Gloves",
-      "answer": "Gloves"
-    }
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Camisa'</size></color></b>", "answer": ["Shirt"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Vestido'</size></color></b>", "answer": ["Dress"], "options": [ "Tie", "Dress", "Vest", "T-shirt" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Chaqueta'</size></color></b>", "answer": ["Jacket"]},
+    {"type": "image", "imagePath": "Images/Game/Tie", "imageReference": "Tomado de: Tie.com", "answer": ["Tie"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Hat", "imageReference": "Tomado de: ", "answer": ["Hat"], "options": [ "Hat", "Coat", "Cap", "Belt" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Gloves", "answer": ["Gloves"]}
   ]
 }
 
