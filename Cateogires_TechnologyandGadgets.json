@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Impresora'.",
-      "answer": "Printer"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Redes sociales'.",
-      "answer": "Social media",
-      "options": [ "Search engine", "Social red", "Modem", "Social media" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Laptop",
-      "answer": "Laptop"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Keyboard",
-      "answer": "Keyboard",
-      "options": [ "Desktop", "Tablet", "Keyboard", "Landline" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Update",
-      "answer": "Update"
-    }
+    {"type": "image", "imagePath": "Images/Game/Laptop", "imageReference": "Tomado de: Laptop.com", "answer": ["Laptop"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Keyboard", "imageReference": "Tomado de: ", "answer": ["Keyboard"], "options": [ "Desktop", "Tablet", "Keyboard", "Landline" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Impresora'</size></color></b>", "answer": ["Printer"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Redes sociales'</size></color></b>", "answer": ["Social media"], "options": [ "Search engine", "Social red", "Modem", "Social media" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Update", "answer": ["Update"]}
   ]
 }
