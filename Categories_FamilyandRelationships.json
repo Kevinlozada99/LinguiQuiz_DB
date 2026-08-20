@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Compañero de clase'.",
-      "answer": "Classmate"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Madrastra'.",
-      "answer": "Stepmother",
-      "options": [ "Wife", "Mother-in-law", "Grandmother", "Stepmother" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Grandmother",
-      "answer": "Grandmother"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Baby",
-      "answer": "Baby",
-      "options": [ "Child", "Teenager", "Baby", "Boy" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Nephew",
-      "answer": "Nephew"
-    }
+    {"type": "image", "imagePath": "Images/Game/Grandmother", "imageReference": "Tomado de: Grandmother.com", "answer": ["Grandmother"]},
+    {"type": "audio", "audioFile": "Audio/Game/Nephew", "answer": ["Nephew"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Madrastra'</size></color></b>", "answer": ["Stepmother"], "options": [ "Wife", "Mother-in-law", "Grandmother", "Stepmother" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Compañero de clase'</size></color></b>", "answer": ["Classmate"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Baby", "imageReference": "Tomado de: ", "answer": ["Baby"], "options": [ "Child", "Bebe", "Boy", "Teenager" ]}
   ]
 }
