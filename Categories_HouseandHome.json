@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Trapeador'.",
-      "answer": "Mop"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Cuchillo'.",
-      "answer": "Knife",
-      "options": [ "Spoon", "Knife", "Fork", "Toilet" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Drawer",
-      "answer": "Drawer"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Roof",
-      "answer": "Roof",
-      "options": [ "Yard", "Wall", "Roof", "Ceiling" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Heater",
-      "answer": "Heater"
-    }
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Roof", "imageReference": "Tomado de: ", "answer": ["Roof"], "options": [ "Yard", "Wall", "Roof", "Ceiling" ]},
+    {"type": "image", "imagePath": "Images/Game/Drawer", "imageReference": "Tomado de: Drawer.com", "answer": ["Drawer"]},
+    {"type": "audio", "audioFile": "Audio/Game/Heater", "answer": ["Heater"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Cuchillo'</size></color></b>", "answer": ["Knife"], "options": [ "Spoon", "Knife", "Fork", "Toilet" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Trapeador'</size></color></b>", "answer": ["Mop"]}
   ]
 }
