@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Tijeras'.",
-      "answer": "Scissors"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Horario'.",
-      "answer": "Schedule",
-      "options": [ "Schedule", "Grade", "Chalk", "Sheet" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Calculator",
-      "answer": "Calculator"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Chemistry",
-      "answer": "Chemistry",
-      "options": [ "Math", "Chemistry", "Geography", "Essay" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Laboratory",
-      "answer": "Laboratory"
-    }
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Chemistry", "imageReference": "Tomado de: ", "answer": ["Chemistry"], "options": [ "Math", "Chemistry", "Geography", "Essay" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Tijeras'</size></color></b>", "answer": ["Scissors"]},
+    {"type": "image", "imagePath": "Images/Game/Calculator", "imageReference": "Tomado de: Calculator.com", "answer": ["Calculator"]},
+    {"type": "audio", "audioFile": "Audio/Game/Laboratory", "answer": ["Laboratory"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Horario'</size></color></b>", "answer": ["Schedule"], "options": [ "Schedule", "Grade", "Chalk", "Sheet" ]}
   ]
 }
