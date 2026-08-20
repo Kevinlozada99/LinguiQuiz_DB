@@ -1,31 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce al inglés 'Testigo'.",
-      "answer": "Witness"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "Selecciona la traducción correcta en inglés de 'Ciudadanía'.",
-      "answer": "Citizenship",
-      "options": [ "Citizenship", "Speech", "Diplomacy", "Civil" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Judge",
-      "answer": "Judge"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Jail",
-      "answer": "Jail",
-      "options": [ "Jury", "Corruption", "Jail", "Murder" ]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Human rights",
-      "answer": "Human rights"
-    }
+    {"type": "image", "imagePath": "Images/Game/Judge", "imageReference": "Tomado de: Judge.com", "answer": ["Judge"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Testigo'</size></color></b>", "answer": ["Witness"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Jail", "imageReference": "Tomado de: ", "answer": ["Jail"], "options": [ "Jury", "Corruption", "Jail", "Murder" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Human rights", "answer": ["Human rights"]},
+    {"type": "multiplechoice", "question": "Selecciona la traducción correcta de la palabra: <b><color=#3F6F8F><size=130%>'Ciudadanía'</size></color></b>", "answer": ["Citizenship"], "options": [ "Citizenship", "Speech", "Diplomacy", "Civil" ]}
   ]
 }
