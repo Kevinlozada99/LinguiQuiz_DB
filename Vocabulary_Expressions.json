@@ -1,25 +1,8 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce a inglés la expresión '¡Mucha suerte!'",
-      "answer": "Break a leg"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés la expresión 'Andarse con rodeos'",
-      "answer": "Beat around the bush"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés la expresión 'Cuesta un ojo de la cara'",
-      "answer": "Costs an arm and a leg"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Pan comido'?",
-      "options": [ "Spill the beans", "A piece of cake", "Get cold feet", "Cut to the chase" ],
-      "answer": "A piece of cake"
-    }
+    {"type": "translation", "question": "Translate the following expression into Spanish:<b><color=#3F6F8F><size=130%>'Break a leg'</size></color></b>", "answer": ["¡Mucha suerte!"]},
+    {"type": "multipleChoice", "question": "What is the English translation of <b><color=#3F6F8F><size=130%>'Pan comido'</size></color></b>", "answer": ["A piece of cake"], "options": [ "Spill the beans", "A piece of cake", "Get cold feet", "Cut to the chase" ]},
+    {"type": "translation", "question": "Translate the following expression into Spanish:<b><color=#3F6F8F><size=130%>'Beat around the bush'</size></color></b>", "answer": ["Andarse con rodeos"]},
+    {"type": "translation", "question": "Translate the following expression into Spanish:<b><color=#3F6F8F><size=130%>'Costs an arm and a leg'</size></color></b>", "answer": ["Cuesta un ojo de la cara"]}
   ]
 }
