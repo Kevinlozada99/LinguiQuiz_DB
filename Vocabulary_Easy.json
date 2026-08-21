@@ -1,663 +1,101 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Fuego'.",
-      "answer": "Fire"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Allí'.",
-      "answer": "There"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Azul'.",
-      "answer": "Blue"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Banano'.",
-      "answer": "Banana"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Baño'.",
-      "answer": "Bathroom"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Bebe'.",
-      "answer": "Baby"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Billete'.",
-      "answer": "Bill"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Blusa'.",
-      "answer": "Blouse"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Bolsa'.",
-      "answer": "Bag"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Bueno'.",
-      "answer": "Good"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Botella'.",
-      "answer": "Bottle"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Cama'.",
-      "answer": "Bed"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Diente'.",
-      "answer": "Tooth"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Hoy'.",
-      "answer": "Today"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Juego'.",
-      "answer": "Game"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Juguete'.",
-      "answer": "Toy"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Edificio'.",
-      "answer": "Building"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Árbol'.",
-      "answer": "Tree"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Friend'.",
-      "answer": "Amigo"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Box'.",
-      "answer": "Caja"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Socks'.",
-      "answer": "Calcetines"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Mouth'.",
-      "answer": "Boca"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Money'.",
-      "answer": "Dinero"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Field'.",
-      "answer": "Campo"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Face'.",
-      "answer": "Cara"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Mirror'.",
-      "answer": "Espejo"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Star'.",
-      "answer": "Estrella"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Meat'.",
-      "answer": "Carne"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Mattress'.",
-      "answer": "Colchón"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Spoon'.",
-      "answer": "Cuchara"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Finger'.",
-      "answer": "Dedo"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Food'.",
-      "answer": "Comida"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Street'.",
-      "answer": "Calle"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Family'.",
-      "answer": "Familia"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Festival'.",
-      "answer": "Festival"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Fruit'.",
-      "answer": "Fruta"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Flower'.",
-      "answer": "Flor"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Arm'.",
-      "answer": "Brazo"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Up'.",
-      "answer": "Arriba"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Story'.",
-      "answer": "Historia"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a español 'Man'.",
-      "answer": "Hombre"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Vaso'.",
-      "answer": "Glass"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Grande'.",
-      "answer": "Big"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Gris'.",
-      "answer": "Gray"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Hermano'.",
-      "answer": "Brother"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Hermoso'.",
-      "answer": "Beautiful"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Estudiante'.",
-      "answer": "Student"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Fresa'.",
-      "answer": "Strawberry"
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés 'Gafas'.",
-      "answer": "Glasses"
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Hello",
-      "answer": "Hello"
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Morning",
-      "answer": "Morning"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Casa' en ingles?",
-      "options": [ "Chair", "House", "Cake", "Food" ],
-      "answer": "House"
-    },    
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Cable'en ingles?",
-      "options": [ "Cable", "Call", "Cook", "Sign" ],
-      "answer": "Cable"
-    },     
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Abajo'en ingles?",
-      "options": [ "Down", "Dawn", "Forever", "Hand" ],
-      "answer": "Down"
-    },    
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Abrigo'en ingles?",
-      "options": [ "Coat", "Caot", "Cead", "Clock" ],
-      "answer": "Coat"
-    }, 
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Inside'en español?",
-      "options": [ "Adentro", "Afuera", "Rosado", "Abajo" ],
-      "answer": "Adentro"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Airport'en español?",
-      "options": [ "Avión", "Helicoptero", "Aeropuerto", "Joya" ],
-      "answer": "Aeropuerto"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Outside'en español?",
-      "options": [ "Adentro", "Abrigo", "Amigo", "Afuera" ],
-      "answer": "Afuera"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Agua'en ingles?",
-      "options": [ "Wather", "Water", "Woter", "Win" ],
-      "answer": "Water"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Aldea'en ingles?",
-      "options": [ "House", "Home", "Villa", "Village" ],
-      "answer": "Village"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Almohada'en ingles?",
-      "options": [ "Almohada", "Home", "Bed", "Pillow" ],
-      "answer": "Pillow"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Yellow'en español?",
-      "options": [ "Naranja", "Limón", "Amarillo", "Azul" ],
-      "answer": "Amarillo"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Year'en español?",
-      "options": [ "Dias", "Año", "Proximamente", "Tiempo" ],
-      "answer": "Año"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Aquí'en ingles?",
-      "options": [ "Read", "Here", "He", "Him" ],
-      "answer": "Here"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Rice'en español?",
-      "options": [ "Blanco", "Arroz", "Grano", "Lenteja" ],
-      "answer": "Arroz"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Yesterday'en español?",
-      "options": [ "Hoy", "Mañana", "Año", "Ayer" ],
-      "answer": "Ayer"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Sugar'en español?",
-      "options": [ "Azúcar", "Blanco", "Viejo", "Nuevo" ],
-      "answer": "Azúcar"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Blanco'en ingles?",
-      "options": [ "White", "Withe", "Black", "Blanck" ],
-      "answer": "White"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Cabeza'en ingles?",
-      "options": [ "Hear", "Shower", "Head", "Bank" ],
-      "answer": "Head"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Café'en ingles?",
-      "options": [ "Cofe", "Coffe", "Red", "Black" ],
-      "answer": "Coffe"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Caliente'en ingles?",
-      "options": [ "Heat", "Jet", "Hot", "Het" ],
-      "answer": "Hot"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Road'en español?",
-      "options": [ "Bicicleta", "Rodar", "Camino", "Veráz" ],
-      "answer": "Camino"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Shirt'en español?",
-      "options": [ "Buso", "Camisa", "Mujer", "Hombre" ],
-      "answer": "Camisa"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Centro'en ingles?",
-      "options": [ "Center", "Enter", "Red", "Home" ],
-      "answer": "Center"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Cereza'en ingles?",
-      "options": [ "Apple", "Red", "Cherry", "Homme" ],
-      "answer": "Cherry"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Ciudad'en ingles?",
-      "options": [ "City", "Car", "Night", "Energy" ],
-      "answer": "City"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Coche'en ingles?",
-      "options": [ "Bus", "Car", "Night", "Road" ],
-      "answer": "Car"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Color'en ingles?",
-      "options": [ "Car", "Gama", "Color", "Blue" ],
-      "answer": "Color"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Corazón'en ingles?",
-      "options": [ "Moon", "Read", "Head", "Heart" ],
-      "answer": "Heart"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Cortina'en ingles?",
-      "options": [ "Coral", "Cut", "Curtain", "Cortain" ],
-      "answer": "Curtain"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Costa'en ingles?",
-      "options": [ "Here", "Care", "Cost", "Coast" ],
-      "answer": "Coast"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Right'en español?",
-      "options": [ "Rapido", "Lento", "Derecha", "Abajo" ],
-      "answer": "Derecha"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Day'en español?",
-      "options": [ "Noche", "Dia", "Amarillo", "Luna" ],
-      "answer": "Dia"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Día Festivo'en ingles?",
-      "options": [ "Day", "Morning", "Tomorrow", "Holiday" ],
-      "answer": "Holiday"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Doctor'en ingles?",
-      "options": [ "Nurse", "Doctor", "Feel", "Nothing" ],
-      "answer": "Doctor"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Salad'en español?",
-      "options": [ "Salado", "Morado", "Ensalada", "Lechuga" ],
-      "answer": "Ensalada"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Desk'en español?",
-      "options": [ "Escritorio", "Plano", "Abajo", "Lejos" ],
-      "answer": "Escritorio"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'School'en español?",
-      "options": [ "Borrador", "Escuela", "Lugar", "Amor" ],
-      "answer": "Escuela"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Esquina'en ingles?",
-      "options": [ "Corter", "Corner", "Carrot", "Crazy" ],
-      "answer": "Corner"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Farmacia'en ingles?",
-      "options": [ "Pharm", "Hospital", "Pharmacy", "Medium" ],
-      "answer": "Pharmacy"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Feliz'en ingles?",
-      "options": [ "Happy", "Fun", "Holiday", "Rise" ],
-      "answer": "Happy"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Feo'en ingles?",
-      "options": [ "Fun", "Ugly", "Beautiful", "Exit" ],
-      "answer": "Ugly"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Foto'en ingles?",
-      "options": [ "Photo", "Hot", "Beautiful", "Read" ],
-      "answer": "Photo"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Frío'en ingles?",
-      "options": [ "White", "Ice", "Coald", "Cold" ],
-      "answer": "Cold"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Gato'en ingles?",
-      "options": [ "Camp", "Roard", "Cat", "Animal" ],
-      "answer": "Cat"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Gente'en ingles?",
-      "options": [ "Legal", "Person", "Comunity", "People" ],
-      "answer": "People"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Room'en español?",
-      "options": [ "Habitación", "Baño", "Pequeño", "Bomba" ],
-      "answer": "Habitación"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Hora'en ingles?",
-      "options": [ "Hour", "Clock", "Temp", "Fire" ],
-      "answer": "Hour"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Hospital'en ingles?",
-      "options": [ "Nurse", "Hospital", "White", "Doctor" ],
-      "answer": "Hospital"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Hotel'en ingles?",
-      "options": [ "Room", "Hostal", "Hotel", "Recepcionist" ],
-      "answer": "Hotel"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Internet'en ingles?",
-      "options": [ "Internet", "Red", "Home", "Conexion" ],
-      "answer": "Internet"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Island'en español?",
-      "options": [ "Isla", "Ir", "Desierto", "Arena" ],
-      "answer": "Isla"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Young'en español?",
-      "options": [ "Edad", "Joven", "Olvido", "Todo" ],
-      "answer": "Joven"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Rain'en español?",
-      "options": [ "Agua", "LLuvia", "Triste", "Solo" ],
-      "answer": "LLuvia"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Sea'en español?",
-      "options": [ "Agua", "Seda", "Mar", "Ser" ],
-      "answer": "Mar"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Woman'en español?",
-      "options": [ "Ella", "Luz", "Mujer", "Ser" ],
-      "answer": "Mujer"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Doll'en español?",
-      "options": [ "Peluche", "Trapo", "Red", "Muñeca" ],
-      "answer": "Muñeca"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Childhood'en español?",
-      "options": [ "Niñez", "Niño", "Más", "Pequeño" ],
-      "answer": "Niñez"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Mano'en ingles?",
-      "options": [ "Hare", "Moon", "Hand", "Head" ],
-      "answer": "Hand"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Niño/Niña'en ingles?",
-      "options": [ "Child", "Women", "He", "Health" ],
-      "answer": "Child"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Miel'en ingles?",
-      "options": [ "Sweet", "Honey", "Money", "More" ],
-      "answer": "Honey"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Moneda'en ingles?",
-      "options": [ "Coin", "Money", "Dinner", "More" ],
-      "answer": "Coin"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Morado'en ingles?",
-      "options": [ "Moon", "Sun", "Purple", "Violet" ],
-      "answer": "Purple"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Fork",
-      "imageReference": "Tomado de: Fork",
-      "answer": "Fork",
-      "options": [ "Knife", "Spoon", "Pot", "Fork" ]
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Radio",
-      "imageReference": "Tomado de: Radio",
-      "answer": "Radio",
-      "options": [ "Radio", "Emisor", "Sound", "Soundbar" ]
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Apple",
-      "imageReference": "Tomado de: Apple",
-      "answer": "Apple"      
-    },
-     {
-      "type": "image",
-      "imagePath": "Images/Game/Autobus",
-      "imageReference": "Tomado de: Autobus",
-      "answer": "Autobus"      
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Bike",
-      "imageReference": "Tomado de: Bike",
-      "answer": "Bike"      
-    }
+    {"type": "image", "imagePath": "Images/Game/Apple", "imageReference": "Tomado de: ", "answer": ["Apple"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Brazo'</size></color></b>", "answer": ["Arm"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Bebé'</size></color></b>", "answer": ["Baby"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Bolsa'</size></color></b>", "answer": ["Bag"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Banano'</size></color></b>", "answer": ["Banana"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Baño'</size></color></b>", "answer": ["Bathroom"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Hermoso'</size></color></b>", "answer": ["Beautiful"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Cama'</size></color></b>", "answer": ["Bed"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Grande'</size></color></b>", "answer": ["Big"]},
+    {"type": "image", "imagePath": "Images/Game/Bike", "imageReference": "Tomado de: pngtree.com", "answer": ["Bike"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Billete'</size></color></b>", "answer": ["Bill"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Blusa'</size></color></b>", "answer": ["Blouse"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Azul'</size></color></b>", "answer": ["Blue"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Botella'</size></color></b>", "answer": ["Bottle"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Caja'</size></color></b>", "answer": ["Box"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Hermano'</size></color></b>", "answer": ["Brother"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Edificio'</size></color></b>", "answer": ["Building"]},
+    {"type": "image", "imagePath": "Images/Game/Bus", "imageReference": "Tomado de: ", "answer": ["Bus"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Cable'</size></color></b>", "answer": ["Cable"], "options": [ "Cable", "Call", "Cook", "Sign" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Carro'</size></color></b>", "answer": ["Car"], "options": [ "Bus", "Car", "Night", "Road" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Gato'</size></color></b>", "answer": ["Cat"], "options": [ "Camp", "Roard", "Cat", "Animal" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Centro'</size></color></b>", "answer": ["Center"], "options": [ "Center", "Enter", "Red", "Home" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Cereza'</size></color></b>", "answer": ["Cherry"], "options": [ "Apple", "Red", "Cherry", "Homme" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Niño/Niña'</size></color></b>", "answer": ["Child"], "options": [ "Child", "Women", "He", "Health" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Ciudad'</size></color></b>", "answer": ["City"], "options": [ "City", "Car", "Night", "Energy" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Costa'</size></color></b>", "answer": ["Coast"], "options": [ "Here", "Care", "Cost", "Coast" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Abrigo'</size></color></b>", "answer": ["Coat"], "options": [ "Coat", "Caot", "Cead", "Clock" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Café'</size></color></b>", "answer": ["Coffee"], "options": [ "Cofe", "Coffe", "Red", "Black" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Moneda'</size></color></b>", "answer": ["Coin"], "options": [ "Coin", "Money", "Dinner", "More" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Frío'</size></color></b>", "answer": ["Cold"], "options": [ "White", "Ice", "Coald", "Cold" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Color'</size></color></b>", "answer": ["Color"], "options": [ "Car", "Gama", "Color", "Blue" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Esquina'</size></color></b>", "answer": ["Corner"], "options": [ "Corter", "Corner", "Carrot", "Crazy" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Cortina'</size></color></b>", "answer": ["Curtain"], "options": [ "Coral", "Cut", "Curtain", "Cortain" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Doctor'</size></color></b>", "answer": ["Doctor"], "options": [ "Nurse", "Doctor", "Feel", "Nothing" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Abajo'</size></color></b>", "answer": ["Down"], "options": [ "Down", "Dawn", "Forever", "Hand" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Cara'</size></color></b>", "answer": ["Face"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Familia'</size></color></b>", "answer": ["Family"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Festival'</size></color></b>", "answer": ["Festival"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Campo'</size></color></b>", "answer": ["Field"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Dedo'</size></color></b>", "answer": ["Finger"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Fuego'</size></color></b>", "answer": ["Fire"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Flor'</size></color></b>", "answer": ["Flower"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Comida'</size></color></b>", "answer": ["Food"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Fork", "imageReference": "Tomado de: ", "answer": ["Fork"], "options": [ "Knife", "Spoon", "Pot", "Fork" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Amigo'</size></color></b>", "answer": ["Friend"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Fruta'</size></color></b>", "answer": ["Fruit"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Juego'</size></color></b>", "answer": ["Game"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Vaso'</size></color></b>", "answer": ["Glass"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Gafas'</size></color></b>", "answer": ["Glasses"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Bueno'</size></color></b>", "answer": ["Good"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Gris'</size></color></b>", "answer": ["Gray"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Mano'</size></color></b>", "answer": ["Hand"], "options": [ "Hare", "Moon", "Hand", "Head" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Feliz'</size></color></b>", "answer": ["Happy"], "options": [ "Happy", "Fun", "Holiday", "Rise" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Cabeza'</size></color></b>", "answer": ["Head"], "options": [ "Hear", "Shower", "Head", "Bank" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Corazón'</size></color></b>", "answer": ["Heart"], "options": [ "Moon", "Read", "Head", "Heart" ]},
+    {"type": "audio", "audioFile": "Audio/Game/Hello", "answer": ["Hello"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Aquí'</size></color></b>", "answer": ["Here"], "options": [ "Read", "Here", "He", "Him" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Día Festivo'</size></color></b>", "answer": ["Holiday"], "options": [ "Day", "Morning", "Tomorrow", "Holiday" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Miel'</size></color></b>", "answer": ["Honey"], "options": [ "Sweet", "Honey", "Money", "More" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Hospital'</size></color></b>", "answer": ["Hospital"], "options": [ "Nurse", "Hospital", "White", "Doctor" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Caliente'</size></color></b>", "answer": ["Hot"], "options": [ "Heat", "Jet", "Hot", "Het" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Hotel'</size></color></b>", "answer": ["Hotel"], "options": [ "Room", "Hostal", "Hotel", "Recepcionist" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Hora'</size></color></b>", "answer": ["Hour"], "options": [ "Hour", "Clock", "Temp", "Fire" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Casa'</size></color></b>", "answer": ["House"], "options": [ "Chair", "House", "Cake", "Food" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Internet'</size></color></b>", "answer": ["Internet"], "options": [ "Internet", "Red", "Home", "Conexion" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Hombre'</size></color></b>", "answer": ["Man"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Colchón'</size></color></b>", "answer": ["Mattress"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Carne'</size></color></b>", "answer": ["Meat"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Espejo'</size></color></b>", "answer": ["Mirror"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Dinero'</size></color></b>", "answer": ["Money"]},
+    {"type": "audio", "audioFile": "Audio/Game/Morning", "answer": ["Morning"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Boca'</size></color></b>", "answer": ["Mouth"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Afuera'</size></color></b>", "answer": ["Outside"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Gente'</size></color></b>", "answer": ["People"], "options": [ "Legal", "Person", "Comunity", "People" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Farmacia'</size></color></b>", "answer": ["Pharmacy"], "options": [ "Pharm", "Hospital", "Pharmacy", "Medium" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Foto'</size></color></b>", "answer": ["Photo"], "options": [ "Photo", "Hot", "Beautiful", "Read" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Almohada'</size></color></b>", "answer": ["Pillow"], "options": [ "Almohada", "Home", "Bed", "Pillow" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Morado'</size></color></b>", "answer": ["Purple"], "options": [ "Moon", "Sun", "Purple", "Violet" ]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Radio", "imageReference": "Tomado de: pngtree.com", "answer": ["Radio"], "options": [ "Radio", "Emisor", "Sound", "Soundbar" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Calcetines'</size></color></b>", "answer": ["Socks"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Cuchara'</size></color></b>", "answer": ["Spoon"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Estrella'</size></color></b>", "answer": ["Star"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Historia'</size></color></b>", "answer": ["Story"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Fresa'</size></color></b>", "answer": ["Strawberry"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Calle'</size></color></b>", "answer": ["Street"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Estudiante'</size></color></b>", "answer": ["Student"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Allí'</size></color></b>", "answer": ["There"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Hoy'</size></color></b>", "answer": ["Today"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Diente'</size></color></b>", "answer": ["Tooth"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Juguete'</size></color></b>", "answer": ["Toy"]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Árbol'</size></color></b>", "answer": ["Tree"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Feo'</size></color></b>", "answer": ["Ugly"], "options": [ "Fun", "Ugly", "Beautiful", "Exit" ]},
+    {"type": "translation", "question": "Traduce a inglés la palabra: <b><color=#3F6F8F><size=130%>'Arriba'</size></color></b>", "answer": ["Up"]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Aldea'</size></color></b>", "answer": ["Village"], "options": [ "House", "Home", "Villa", "Village" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Agua'</size></color></b>", "answer": ["Water"], "options": [ "Wather", "Water", "Woter", "Win" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Blanco'</size></color></b>", "answer": ["White"], "options": [ "White", "Withe", "Black", "Blanck" ]},
+    {"type": "multipleChoice", "question": "¿Cuál es la traducción en inglés de la palabra:<b><color=#3F6F8F><size=130%>'Amarillo'</size></color></b>", "answer": ["Yellow"], "options": [ "Naranja", "Limón", "Amarillo", "Azul" ]}
   ]
 }
