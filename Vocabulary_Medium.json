@@ -1,637 +1,98 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Librería",
-      "answer": "Bookstore"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Acera' into english.",
-      "answer": "Sidewalk"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Escoba' into english.",
-      "answer": "Broom"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Estación' into english.",
-      "answer": "Station"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Otoño' into english.",
-      "answer": "Autumn"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pizarra' into english.",
-      "answer": "Blackboard"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Sotano' into english.",
-      "answer": "Basement"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Escalera' into english.",
-      "answer": "Staircase"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Aduana' into english.",
-      "answer": "Customs"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Agenda' into english.",
-      "answer": "Planner"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Aguja' into english.",
-      "answer": "Needle"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Agujero Negro' into english.",
-      "answer": "Black Hole"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Alicate' into english.",
-      "answer": "Pliers"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Alimento' into english.",
-      "answer": "Food Item"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Almacen' into english.",
-      "answer": "Storehouse"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Andén' into english.",
-      "answer": "Platform"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Archivo' into english.",
-      "answer": "File"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Arete' into english.",
-      "answer": "Earring"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Ascensor' into english.",
-      "answer": "Elevator"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Asiento' into english.",
-      "answer": "Seat"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Autopista' into english.",
-      "answer": "Freeway"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Barniz' into english.",
-      "answer": "Varnish"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Avenida' into english.",
-      "answer": "Avenue"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Billete De Avión' into english.",
-      "answer": "Plane Ticket"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Bolígrafo' into english.",
-      "answer": "Pen"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Bolsillo' into english.",
-      "answer": "Pocket"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Bordado' into english.",
-      "answer": "Embroidery"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Bosque' into english.",
-      "answer": "Forest"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Contraportada' into english.",
-      "answer": "Back Cover"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Correo' into english.",
-      "answer": "Mail"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Cuaderno' into english.",
-      "answer": "Notebook"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Cubo' into english.",
-      "answer": "Bucket"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Dolor' into english.",
-      "answer": "Pain"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Editorial' into english.",
-      "answer": "Editorial"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Dulce' into english.",
-      "answer": "Sweet"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Edredón' into english.",
-      "answer": "Duvet"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Enciclopedia' into english.",
-      "answer": "Encyclopedia"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Enfermera' into english.",
-      "answer": "Nurse"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Equipaje' into english.",
-      "answer": "Luggage"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Equipo' into english.",
-      "answer": "Team"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Snack' into Spanish.",
-      "answer": "Botana"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Button' into Spanish.",
-      "answer": "Botón"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Quality' into Spanish.",
-      "answer": "Calidad"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Padlock' into Spanish.",
-      "answer": "Candado"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Folder' into Spanish.",
-      "answer": "Carpeta"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Poster' into Spanish.",
-      "answer": "Cartel"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Mall' into Spanish.",
-      "answer": "Centro Comercial"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Brush' into Spanish.",
-      "answer": "Cepillo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Brain' into Spanish.",
-      "answer": "Cerebro"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Fireplace' into Spanish.",
-      "answer": "Chimenea"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Nail' into Spanish.",
-      "answer": "Clavo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Weather' into Spanish.",
-      "answer": "Clima"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Paperclip' into Spanish.",
-      "answer": "Clip"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Necklace' into Spanish.",
-      "answer": "Collar"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Shelf' into Spanish.",
-      "answer": "Estante"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Statue' into Spanish.",
-      "answer": "Estatua"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Stomach' into Spanish.",
-      "answer": "Estomago"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Shooting Star' into Spanish.",
-      "answer": "Estrella fugaz"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Exam' into Spanish.",
-      "answer": "Examen"
-    },
-     {
-      "type": "translation",
-      "question": "Translate 'Trip' into Spanish.",
-      "answer": "Excursión"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Factory' into Spanish.",
-      "answer": "Fábrica"
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Sponge",
-      "answer": "Sponge"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "¿Cuál es la traducción de 'Rodilla'?",
-      "options": [ "Map", "Flight", "Knee", "Pliers" ],
-      "answer": "Knee"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Alfombra' in English'?",
-      "options": [ "Alfrom", "Carpet", "Alf", "Tape" ],
-      "answer": "Carpet"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cabaña' in English'?",
-      "options": [ "Cabin", "Cabaña", "Caban", "Home" ],
-      "answer": "Cabin"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cadena' in English'?",
-      "options": [ "Arm", "Came", "Chain", "Cade" ],
-      "answer": "Chain"
-    },
-     {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Camping' in English'?",
-      "options": [ "Self", "Grand", "Campground", "Camp" ],
-      "answer": "Campground"
-    },
-     {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Capítulo' in English'?",
-      "options": [ "Carp", "Chapter", "Seleccion", "Sou" ],
-      "answer": "Chapter"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Foto De Portada' in English'?",
-      "options": [ "Photo", "Portad", "Cover Photo", "Roud port" ],
-      "answer": "Cover Photo"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Mostrador' in English'?",
-      "options": [ "Roard", "Repist", "Mostrar", "Counter" ],
-      "answer": "Counter"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Armario' in English'?",
-      "options": [ "Closet", "Arm", "Mader", "Tape" ],
-      "answer": "Closet"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Caramelo' in English'?",
-      "options": [ "Candy", "Sweet", "Later", "Carm" ],
-      "answer": "Candy"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Caverna' in English'?",
-      "options": [ "Cave", "Cav", "Cavern", "Glou" ],
-      "answer": "Cave"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Multitud' in English'?",
-      "options": [ "Cave", "People", "Much", "Crowd" ],
-      "answer": "Crowd"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Observatorio' in English'?",
-      "options": [ "Came", "City", "Observatory", "Look" ],
-      "answer": "Observatory"
-    },
-     {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Océano' in English'?",
-      "options": [ "Ocean", "Mar", "More", "Water" ],
-      "answer": "Ocean"
-    },
-     {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Oficina' in English'?",
-      "options": [ "Team", "Ofic", "Office", "Ofice" ],
-      "answer": "Office"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Operación' in English'?",
-      "options": [ "Real", "Operation", "Oclock", "Operacion" ],
-      "answer": "Operation"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Pegamento' in English'?",
-      "options": [ "White", "Slime", "Pegament", "Glue" ],
-      "answer": "Glue"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Celebración' in English'?",
-      "options": [ "More", "Party", "Cell", "Celebration" ],
-      "answer": "Celebration"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Chocolate' in English'?",
-      "options": [ "Sweet", "Chocolate", "Blou", "Chocol" ],
-      "answer": "Chocolate"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cometa' in English'?",
-      "options": [ "Mear", "Cole", "Fly", "Comet" ],
-      "answer": "Comet"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Ropa' in English'?",
-      "options": [ "Clothes", "Jacket", "Black", "Ride" ],
-      "answer": "Clothes"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Tiza' in English'?",
-      "options": [ "Tiza", "Market", "Pencil", "Chalk" ],
-      "answer": "Chalk"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cliente' in English'?",
-      "options": [ "Customer", "Proveer", "Cliet", "Road" ],
-      "answer": "Customer"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Library' in Spanish'?",
-      "options": [ "Libros", "Libreria", "Silencio", "Libra" ],
-      "answer": "Libreria"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Hinge' in Spanish'?",
-      "options": [ "Repiza", "Bisa", "Bisagra", "Fuerte" ],
-      "answer": "Bisagra"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Light Bulb' in Spanish'?",
-      "options": [ "Bombilla", "Luz", "Luz grande", "Linterna" ],
-      "answer": "Bombilla"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Highway' in Spanish'?",
-      "options": [ "Unión", "Carretera", "Pista", "Carrera" ],
-      "answer": "Carretera"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Lock' in Spanish'?",
-      "options": [ "Seguridad", "Reloj", "Cerradura", "Hora" ],
-      "answer": "Cerradura"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Lace' in Spanish'?",
-      "options": [ "Encaje", "Lazo", "Largo", "Medio" ],
-      "answer": "Encaje"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Galaxy' in Spanish'?",
-      "options": [ "Galaxia", "Constelación", "Estrella", "Tiempo" ],
-      "answer": "Galaxia"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Garage' in Spanish'?",
-      "options": [ "Venta", "Garaje", "Espacio", "Carro" ],
-      "answer": "Garaje"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Globe' in Spanish'?",
-      "options": [ "Aire", "Globo Terráqueo", "Esfera", "Alto" ],
-      "answer": "Globo Terráqueo"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Glossary' in Spanish'?",
-      "options": [ "Glosario", "Palabras", "Diccionario", "Cantidad" ],
-      "answer": "Glosario"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Gloves' in Spanish'?",
-      "options": [ "Globo", "Aire", "Guantes", "Plastico" ],
-      "answer": "Guantes"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Lake' in Spanish'?",
-      "options": [ "Lago", "Falso", "Lazo", "Equipo" ],
-      "answer": "Lago"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Hammer' in Spanish'?",
-      "options": [ "Martillo", "Hambre", "Juego", "Desequilibrio" ],
-      "answer": "Martillo"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Comb' in Spanish'?",
-      "options": [ "Aguja", "Agujeta", "Peine", "Real" ],
-      "answer": "Peine"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Loan' in Spanish'?",
-      "options": [ "Solo", "Relajado", "Préstamo", "Real" ],
-      "answer": "Préstamo"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Health' in Spanish'?",
-      "options": [ "Corazón", "Salud", "Bombear", "Cansón" ],
-      "answer": "Salud"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Frying pan' in Spanish'?",
-      "options": [ "Logro", "Grande", "Sartén", "Pequeño" ],
-      "answer": "Sartén"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Health Insurance' in Spanish'?",
-      "options": [ "Asegurador", "Seguro Médico", "Bienestar", "Normal" ],
-      "answer": "Seguro Médico"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Headline' in Spanish'?",
-      "options": [ "Salud", "Titular", "Amor", "Calma" ],
-      "answer": "Titular"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Lesson' in Spanish'?",
-      "options": [ "Lado", "Lección", "Apendizaje", "Dos" ],
-      "answer": "Lección"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Compañero De Trabajo' in English'?",
-      "options": [ "Team", "Equipo", "Colleague", "Equipt" ],
-      "answer": "Colleague"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Concierto' in English'?",
-      "options": [ "Concierto", "Concert", "Roard", "Audio" ],
-      "answer": "Concert"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Constelación' in English'?",
-      "options": [ "Star", "Call", "Constellation", "Spam" ],
-      "answer": "Constellation"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Contrato' in English'?",
-      "options": [ "Contract", "Core", "Contra", "Rec" ],
-      "answer": "Contract"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Corchete' in English'?",
-      "options": [ "Automovil", "Movil", "Carp", "Clasp" ],
-      "answer": "Clasp"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Crédito' in English'?",
-      "options": [ "Credit", "Red", "Movil", "Marge" ],
-      "answer": "Credit"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cueva' in English'?",
-      "options": [ "Ugly", "Cavern", "Cueva", "Carme" ],
-      "answer": "Cavern"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Cultura' in English'?",
-      "options": [ "Maps", "Culture", "Curt", "Region" ],
-      "answer": "Culture"
-    },
-    {
-      "type": "multiplechoice",
-      "question": "What is the translation of 'Empresa' in English'?",
-      "options": [ "Group", "Rec", "Company", "Team" ],
-      "answer": "Company"
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Umbrella",
-      "answer": "Umbrella"
-    },
-    {
-      "type": "imagemultiplechoice",
-      "imagePath": "Images/Game/Scarf",
-      "options": [ "Scarf", "Fever", "Shelf", "Comb" ],
-      "answer": "Scarf"
-    }
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Otoño'</size></color></b>", "answer": ["Autumn"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Avenida'</size></color></b>", "answer": ["Avenue"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Contraportada'</size></color></b>", "answer": ["Back Cover"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Sótano'</size></color></b>", "answer": ["Basement"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Agujero Negro'</size></color></b>", "answer": ["Black Hole"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pizarra'</size></color></b>", "answer": ["Blackboard"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Cerebro'</size></color></b>", "answer": ["Brain"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Escoba'</size></color></b>", "answer": ["Broom"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Cepillo'</size></color></b>", "answer": ["Brush"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Cubo'</size></color></b>", "answer": ["Bucket"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Botón'</size></color></b>", "answer": ["Button"]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cabaña'</size></color></b>", "answer": ["Cabin"], "options": [ "Cabin", "Cabaña", "Caban", "Home" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Caramelo'</size></color></b>", "answer": ["Candy"], "options": [ "Candy", "Sweet", "Later", "Carm" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Alfombra'</size></color></b>", "answer": ["Carpet"], "options": [ "Alfrom", "Carpet", "Alf", "Tape" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Caverna'</size></color></b>", "answer": ["Cave"], "options": [ "Cave", "Cav", "Cavern", "Glou" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cueva'</size></color></b>", "answer": ["Cavern"], "options": [ "Ugly", "Cavern", "Cueva", "Carme" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Celebración'</size></color></b>", "answer": ["Celebration"], "options": [ "More", "Party", "Cell", "Celebration" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cadena'</size></color></b>", "answer": ["Chain"], "options": [ "Arm", "Came", "Chain", "Cade" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Tiza'</size></color></b>", "answer": ["Chalk"], "options": [ "Tiza", "Market", "Pencil", "Chalk" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Capítulo'</size></color></b>", "answer": ["Chapter"], "options": [ "Carp", "Chapter", "Seleccion", "Sou" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Chocolate'</size></color></b>", "answer": ["Chocolate"], "options": [ "Sweet", "Chocolate", "Blou", "Chocol" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Corchete'</size></color></b>", "answer": ["Clasp"], "options": [ "Automovil", "Movil", "Carp", "Clasp" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Armario'</size></color></b>", "answer": ["Closet"], "options": [ "Closet", "Arm", "Mader", "Tape" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Ropa'</size></color></b>", "answer": ["Clothes"], "options": [ "Clothes", "Jacket", "Black", "Ride" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Compañero de Trabajo'</size></color></b>", "answer": ["Colleague"], "options": [ "Team", "Equipo", "Colleague", "Equipt" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cometa'</size></color></b>", "answer": ["Comet"], "options": [ "Mear", "Cole", "Fly", "Comet" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Empresa'</size></color></b>", "answer": ["Company"], "options": [ "Group", "Rec", "Company", "Team" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Concierto'</size></color></b>", "answer": ["Concert"], "options": [ "Concierto", "Concert", "Roard", "Audio" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Constelación'</size></color></b>", "answer": ["Constellation"], "options": [ "Star", "Call", "Constellation", "Spam" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Contrato'</size></color></b>", "answer": ["Contract"], "options": [ "Contract", "Core", "Contra", "Rec" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Mostrador'</size></color></b>", "answer": ["Counter"], "options": [ "Roard", "Repist", "Mostrar", "Counter" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Foto de Portada'</size></color></b>", "answer": ["Cover Photo"], "options": [ "Photo", "Portad", "Cover Photo", "Roud port" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Crédito'</size></color></b>", "answer": ["Credit"], "options": [ "Credit", "Red", "Movil", "Marge" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Multitud'</size></color></b>", "answer": ["Crowd"], "options": [ "Cave", "People", "Much", "Crowd" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cultura'</size></color></b>", "answer": ["Culture"], "options": [ "Maps", "Culture", "Curt", "Region" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Cliente'</size></color></b>", "answer": ["Customer"], "options": [ "Customer", "Proveer", "Cliet", "Road" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Aduana'</size></color></b>", "answer": ["Customs"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Edredón'</size></color></b>", "answer": ["Duvet"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Arete'</size></color></b>", "answer": ["Earring"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Editorial'</size></color></b>", "answer": ["Editorial"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Ascensor'</size></color></b>", "answer": ["Elevator"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Bordado'</size></color></b>", "answer": ["Embroidery"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Enciclopedia'</size></color></b>", "answer": ["Encyclopedia"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Examen'</size></color></b>", "answer": ["Exam"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Fábrica'</size></color></b>", "answer": ["Factory"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Archivo'</size></color></b>", "answer": ["File"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Chimenea'</size></color></b>", "answer": ["Fireplace"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Carpeta'</size></color></b>", "answer": ["Folder"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Alimento'</size></color></b>", "answer": ["Food Item"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Bosque'</size></color></b>", "answer": ["Forest"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Autopista'</size></color></b>", "answer": ["Freeway"]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Pegamento'</size></color></b>", "answer": ["Glue"], "options": [ "White", "Slime", "Pegament", "Glue" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Rodilla'</size></color></b>", "answer": ["Knee"], "options": [ "Map", "Flight", "Knee", "Pliers" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Equipaje'</size></color></b>", "answer": ["Luggage"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Correo'</size></color></b>", "answer": ["Mail"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Centro Comercial'</size></color></b>", "answer": ["Mall"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Clavo'</size></color></b>", "answer": ["Nail"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Collar'</size></color></b>", "answer": ["Necklace"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Aguja'</size></color></b>", "answer": ["Needle"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Cuaderno'</size></color></b>", "answer": ["Notebook"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Enfermera'</size></color></b>", "answer": ["Nurse"]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Observatorio'</size></color></b>", "answer": ["Observatory"], "options": [ "Came", "City", "Observatory", "Look" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Océano'</size></color></b>", "answer": ["Ocean"], "options": [ "Ocean", "Mar", "More", "Water" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Oficina'</size></color></b>", "answer": ["Office"], "options": [ "Team", "Ofic", "Office", "Ofice" ]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Operación'</size></color></b>", "answer": ["Operation"], "options": [ "Real", "Operation", "Oclock", "Operacion" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Candado'</size></color></b>", "answer": ["Padlock"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Dolor'</size></color></b>", "answer": ["Pain"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Clip'</size></color></b>", "answer": ["Paperclip"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Bolígrafo'</size></color></b>", "answer": ["Pen"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Billete De Avión'</size></color></b>", "answer": ["Plane Ticket"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Agenda'</size></color></b>", "answer": ["Planner"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Andén'</size></color></b>", "answer": ["Platform"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Alicate'</size></color></b>", "answer": ["Pliers"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Bolsillo'</size></color></b>", "answer": ["Pocket"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Cartel'</size></color></b>", "answer": ["Poster"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Calidad'</size></color></b>", "answer": ["Quality"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Scarf", "imageReference": "Tomado de: ", "answer": ["Scarf"], "options": [ "Scarf", "Fever", "Shelf", "Comb" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Asiento'</size></color></b>", "answer": ["Seat"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Estante'</size></color></b>", "answer": ["Shelf"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Estrella Fugaz'</size></color></b>", "answer": ["Shooting Star"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Acera'</size></color></b>", "answer": ["Sidewalk"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Botana'</size></color></b>", "answer": ["Snack"]},
+    {"type": "audio", "audioFile": "Audio/Game/Sponge", "answer": ["Sponge"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Escalera'</size></color></b>", "answer": ["Staircase"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Estación'</size></color></b>", "answer": ["Station"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Estatua'</size></color></b>", "answer": ["Statue"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Estómago'</size></color></b>", "answer": ["Stomach"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Almacén'</size></color></b>", "answer": ["Storehouse"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Dulce'</size></color></b>", "answer": ["Sweet"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Equipo'</size></color></b>", "answer": ["Team"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Excursión'</size></color></b>", "answer": ["Trip"]},
+    {"type": "image", "imagePath": "Images/Game/Umbrella", "imageReference": "Tomado de: ", "answer": ["Umbrella"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Barniz'</size></color></b>", "answer": ["Varnish"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Clima'</size></color></b>", "answer": ["Weather"]}
   ]
 }
