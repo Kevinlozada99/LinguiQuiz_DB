@@ -1,361 +1,72 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Tesoro",
-      "answer": "Treasure"
-    },
-     {
-      "type": "translation",
-      "question": "Interaction",
-      "answer": "Interacción"
-    },
-     {
-      "type": "translation",
-      "question": "Interpretation",
-      "answer": "Interpretación"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Interpretation' into Spanish",
-      "answer": "Interpretación"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Symbol' into Spanish",
-      "answer": "Símbolo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'System' into Spanish",
-      "answer": "Sistema"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Sustainability' into Spanish",
-      "answer": "Sostenibilidad"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Subsidy' into Spanish",
-      "answer": "Subsidio"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Interaction' into Spanish",
-      "answer": "Interacción"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Investment' into Spanish",
-      "answer": "Inversión"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Jerarquía' into English",
-      "answer": "Hierarchy"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Justification' into Spanish",
-      "answer": "Justificación"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Brick' into Spanish",
-      "answer": "Ladrillo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Lanza' into English",
-      "answer": "Spear"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Canvas' into Spanish",
-      "answer": "Lienzo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Litera' into English",
-      "answer": "Berth"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Meta' into English",
-      "answer": "Goal"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Morale' into Spanish",
-      "answer": "Moral"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Target' into Spanish",
-      "answer": "Objetivo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Palace' into Spanish",
-      "answer": "Palacio"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Parameter' into Spanish",
-      "answer": "Parámetro"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pauta' into English",
-      "answer": "Guideline"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pavement' into Spanish",
-      "answer": "Pavimento"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pedestal' into Spanish",
-      "answer": "Pedestal"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Peñón' into English",
-      "answer": "Rocky Crag"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Parchment' into Spanish",
-      "answer": "Pergamino"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pearl' into Spanish",
-      "answer": "Perla"
-    },
-      {
-      "type": "translation",
-      "question": "Translate 'Perspective' into Spanish",
-      "answer": "Perspectiva"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Insight' into Spanish",
-      "answer": "Conocimiento"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pillar' into Spanish",
-      "answer": "Pilar"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Pincer' into Spanish",
-      "answer": "Pinza"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Plaque' into Spanish",
-      "answer": "Placa"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Poder' into English",
-      "answer": "Power"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Policy' into Spanish",
-      "answer": "Política"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Portfolio' into Spanish",
-      "answer": "Portafolio"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Posibilidad' into English",
-      "answer": "Possibility"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Posición' into English",
-      "answer": "Position"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Potencial' into English",
-      "answer": "Potential"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Preferencia' into English",
-      "answer": "Preference"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Preparación' into English",
-      "answer": "Preparation"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Principio' into English",
-      "answer": "Principle"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Prioridad' into English",
-      "answer": "Priority"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Problema' into English",
-      "answer": "Problem"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Issue' into Spanish",
-      "answer": "Asunto"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Procedimiento' into English",
-      "answer": "Procedure"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Proceso' into English",
-      "answer": "Process"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Progreso' into English",
-      "answer": "Progress"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Propuesta' into English",
-      "answer": "Proposal"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Protección' into English",
-      "answer": "Protection"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Protocolo' into English",
-      "answer": "Protocol"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Ordeal' into Spanish",
-      "answer": "Prueba"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Publicación' into English",
-      "answer": "Publication"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Punto De Referencia' into English",
-      "answer": "Benchmark"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Reja' into English",
-      "answer": "Grid"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Constraint' into Spanish",
-      "answer": "Restricción"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Outcome' into Spanish",
-      "answer": "Resultado"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Sesgo' into English",
-      "answer": "Bias"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Symbolism' into Spanish",
-      "answer": "Simbolismo"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Substance' into Spanish",
-      "answer": "Sustancia"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Tapestry' into Spanish",
-      "answer": "Tapiz"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Technique' into Spanish",
-      "answer": "Técnica"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Technology' into Spanish",
-      "answer": "Tecnología"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Teja' into English",
-      "answer": "Tile"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Theory' into Spanish",
-      "answer": "Teoría"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Trono' into English",
-      "answer": "Throne"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Tumba' into English",
-      "answer": "Tomb"
-    },
-    {
-      "type": "translation",
-      "question": "Translate 'Viga' into English",
-      "answer": "Beam"
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Admonition",
-      "answer": "Admonition"
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es la traducción de 'Crecimiento'?",
-      "options": [ "Chapel", "Eager", "Growth", "Mirage" ],
-      "answer": "Growth"
-    },
-    {
-      "type": "image",
-      "imagePath": "Images/Game/Framework",
-      "answer": "Framework"
-    },
-    {
-      "type": "imagemultipleChoice",
-      "imagePath": "Images/Game/Magnet",
-      "options": [ "Cane", "Fate", "Lining", "Magnet" ],
-      "answer": "Magnet"
-    }
+    {"type": "audio", "audioFile": "Audio/Game/Admonition", "answer": ["Admonition"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Viga'</size></color></b>", "answer": ["Beam"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Punto De Referencia'</size></color></b>", "answer": ["Benchmark"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Litera'</size></color></b>", "answer": ["Berth"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Sesgo'</size></color></b>", "answer": ["Bias"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Ladrillo'</size></color></b>", "answer": ["Brick"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Lienzo'</size></color></b>", "answer": ["Canvas"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Restricción'</size></color></b>", "answer": ["Constraint"]},
+    {"type": "image", "imagePath": "Images/Game/Framework", "imageReference": "Tomado de: ", "answer": ["Framework"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Meta'</size></color></b>", "answer": ["Goal"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Reja'</size></color></b>", "answer": ["Grille"]},
+    {"type": "multipleChoice", "question": "What is the English translation of the word<b><color=#3F6F8F><size=130%>'Crecimiento'</size></color></b>", "answer": ["Growth"], "options": [ "Chapel", "Eager", "Growth", "Mirage" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pauta'</size></color></b>", "answer": ["Guideline"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Jerarquía'</size></color></b>", "answer": ["Hierarchy"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Perspectiva / Percepción'</size></color></b>", "answer": ["Insight"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Interacción'</size></color></b>", "answer": ["Interaction"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Interpretación'</size></color></b>", "answer": ["Interpretation"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Inversión'</size></color></b>", "answer": ["Investment"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Problema / Cuestión'</size></color></b>", "answer": ["Issue"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Justificación'</size></color></b>", "answer": ["Justification"]},
+    {"type": "imagemultiplechoice", "imagePath": "Images/Game/Magnet", "imageReference": "Tomado de: ", "answer": ["Magnet"], "options": [ "Cane", "Fate", "Lining", "Magnet" ]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Moral'</size></color></b>", "answer": ["Morale"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Prueba'</size></color></b>", "answer": ["Ordeal"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Resultado'</size></color></b>", "answer": ["Outcome"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Palacio'</size></color></b>", "answer": ["Palace"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Parámetro'</size></color></b>", "answer": ["Parameter"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pergamino'</size></color></b>", "answer": ["Parchment"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pavimento'</size></color></b>", "answer": ["Pavement"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Perla'</size></color></b>", "answer": ["Pearl"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pedestal'</size></color></b>", "answer": ["Pedestal"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Perspectiva'</size></color></b>", "answer": ["Perspective"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pilar'</size></color></b>", "answer": ["Pillar"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Pinza'</size></color></b>", "answer": ["Pincer"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Placa'</size></color></b>", "answer": ["Plaque"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Política'</size></color></b>", "answer": ["Policy"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Portafolio'</size></color></b>", "answer": ["Portfolio"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Posición'</size></color></b>", "answer": ["Position"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Posibilidad'</size></color></b>", "answer": ["Possibility"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Potencial'</size></color></b>", "answer": ["Potential"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Poder'</size></color></b>", "answer": ["Power"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Preferencia'</size></color></b>", "answer": ["Preference"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Preparación'</size></color></b>", "answer": ["Preparation"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Principio'</size></color></b>", "answer": ["Principle"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Prioridad'</size></color></b>", "answer": ["Priority"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Problema'</size></color></b>", "answer": ["Problem"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Procedimiento'</size></color></b>", "answer": ["Procedure"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Proceso'</size></color></b>", "answer": ["Process"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Progreso'</size></color></b>", "answer": ["Progress"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Propuesta'</size></color></b>", "answer": ["Proposal"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Protección'</size></color></b>", "answer": ["Protection"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Protocolo'</size></color></b>", "answer": ["Protocol"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Publicación'</size></color></b>", "answer": ["Publication"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Peñón'</size></color></b>", "answer": ["Rocky Crag"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Lanza'</size></color></b>", "answer": ["Spear"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Subsidio'</size></color></b>", "answer": ["Subsidy"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Sustancia'</size></color></b>", "answer": ["Substance"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Sostenibilidad'</size></color></b>", "answer": ["Sustainability"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Símbolo'</size></color></b>", "answer": ["Symbol"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Simbolismo'</size></color></b>", "answer": ["Symbolism"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Sistema'</size></color></b>", "answer": ["System"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Tapiz'</size></color></b>", "answer": ["Tapestry"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Objetivo'</size></color></b>", "answer": ["Target"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Técnica'</size></color></b>", "answer": ["Technique"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Tecnología'</size></color></b>", "answer": ["Technology"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Teoría'</size></color></b>", "answer": ["Theory"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Trono'</size></color></b>", "answer": ["Throne"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Teja'</size></color></b>", "answer": ["Tile"]},
+    {"type": "translation", "question": "Translate the following word into English: <b><color=#3F6F8F><size=130%>'Tumba'</size></color></b>", "answer": ["Tomb"]}
   ]
 }
