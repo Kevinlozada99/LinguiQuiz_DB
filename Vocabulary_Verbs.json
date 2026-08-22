@@ -1,32 +1,9 @@
 ﻿{
   "questions": [
-    {
-      "type": "translation",
-      "question": "Traduce a inglés el presente del verbo 'Abandonar'",
-      "answer": ["Abandon"]
-    },
-    {
-      "type": "audio",
-      "audioFile": "Audio/Game/Accented",
-      "answer": ["Accented"]
-    },
-    {
-      "type": "multipleChoice",
-      "question": "¿Cuál es el pasado participio en inglés del verbo 'Vivir'?",
-      "options": [ "Live", "Lived", "Living", "Life" ],
-      "answer": ["Lived"]
-    },
-    {
-      "type": "translation",
-      "question": "Traduce a inglés el pasado simple del verbo 'Destruir'",
-      "answer": ["Destroyed"]
-    },
-    {
-      "type": "verb",
-      "question": "Escribe los tiempos del verbo 'comer'",
-      "present": "eat",
-      "past": "ate",
-      "participle": "eaten"
-  }
+    {"type": "translation", "question": "Traduce a inglés el presente del verbo<b><color=#3F6F8F><size=130%>'Abandonar'</size></color></b>", "answer": ["Abandon"]},
+    {"type": "audio", "audioFile": "Audio/Game/Accented", "answer": ["Accented"]},
+    {"type": "verb", "question": "Escribe en inglés los tiempos tiempos del verbo<b><color=#3F6F8F><size=130%>'Comer'</size></color></b>", "present": ["Eat"], "past": ["Ate"], "participle": ["Eaten"]},
+    {"type": "translation", "question": "Traduce a inglés el pasado simple del verbo<b><color=#3F6F8F><size=130%>'Destruir'</size></color></b>", "answer": ["Destroyed"]},
+    {"type": "multipleChoice", "question": "¿Cuál es el pasado participio en inglés del verbo<b><color=#3F6F8F><size=130%>'Vivir'</size></color></b>", "answer": ["Lived"], "options": [ "Live", "Lived", "Living", "Life" ]}
  ]
 }
