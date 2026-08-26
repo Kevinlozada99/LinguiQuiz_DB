@@ -2,7 +2,7 @@
   "questions": [
     {"type": "translation", "question": "Traduce a inglés el presente del verbo<b><color=#3F6F8F><size=130%>'Abandonar'</size></color></b>", "answer": ["Abandon"]},
     {"type": "audio", "audioFile": "Audio/Game/Accented", "answer": ["Accented"]},
-    {"type": "verb", "question": "Escribe en inglés los tiempos tiempos del verbo<b><color=#3F6F8F><size=130%>'Comer'</size></color></b>", "present": "Eat", "past": "Ate", "participle": "Eaten"},
+    {"type": "verb", "question": "Escribe en inglés los tiempos tiempos del verbo<b><color=#3F6F8F><size=130%>'Comer'</size></color></b>", "present": "<b><color=#3F6F8F><size=130%>Eat</size></color></b>", "past": "<b><color=#3F6F8F><size=130%>Ate</size></color></b>", "participle": "<b><color=#3F6F8F><size=130%>Eaten</size></color></b>"},
     {"type": "translation", "question": "Traduce a inglés el pasado simple del verbo<b><color=#3F6F8F><size=130%>'Destruir'</size></color></b>", "answer": ["Destroyed"]},
     {"type": "multipleChoice", "question": "¿Cuál es el pasado participio en inglés del verbo<b><color=#3F6F8F><size=130%>'Vivir'</size></color></b>", "answer": ["Lived"], "options": [ "Live", "Lived", "Living", "Life" ]}
  ]
